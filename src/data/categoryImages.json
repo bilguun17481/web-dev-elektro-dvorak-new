@@ -1,0 +1,26 @@
+{
+  "televize-audio": {
+    "tile": "/categories/televize-audio-tile.jpg",
+    "wide": "/categories/televize-audio-wide.jpg"
+  },
+  "velke-spotrebice": {
+    "tile": "/categories/velke-spotrebice-tile.jpg",
+    "wide": "/categories/velke-spotrebice-wide.jpg"
+  },
+  "male-spotrebice": {
+    "tile": "/categories/male-spotrebice-tile.jpg",
+    "wide": "/categories/male-spotrebice-wide.jpg"
+  },
+  "pocitace-telefony": {
+    "tile": "/categories/pocitace-telefony-tile.jpg",
+    "wide": "/categories/pocitace-telefony-wide.jpg"
+  },
+  "naradi": {
+    "tile": "/categories/naradi-tile.jpg",
+    "wide": "/categories/naradi-wide.jpg"
+  },
+  "zahrada": {
+    "tile": "/categories/zahrada-tile.jpg",
+    "wide": "/categories/zahrada-wide.jpg"
+  }
+}

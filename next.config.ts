@@ -6,10 +6,10 @@ const nextConfig: NextConfig = {
   trailingSlash: true,
   poweredByHeader: false,
   images: {
-    // Product photography is served from R2 once the image pipeline lands.
-    remotePatterns: [],
+    // Seed photography is served straight from public/. The architecture puts it in R2
+    // as WebP at four widths, and that pipeline brings the loader with it.
+    unoptimized: true,
   },
-  typedRoutes: true,
 };
 
 export default nextConfig;

@@ -12,6 +12,11 @@ const config = [
     },
   },
   {
+    // Build scripts report what they generated; that is their output, not a stray log.
+    files: ["scripts/**/*.mjs"],
+    rules: { "no-console": "off" },
+  },
+  {
     // The domain layer is pure: no I/O, no framework, no adapters. Its tests are not,
     // because some of them assert the rules against the real export on disk.
     files: ["src/domain/**/*.ts"],

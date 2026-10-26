@@ -5,7 +5,8 @@ The scraper output is now in the repo (`url_map.csv`, `categories.json`), so the
 below and 05 has been patched to point here. Worklists for the manual mapping are committed
 next to this file:
 
-- `06-unmatched-codes.csv` — 64 rows with no usable Signys code
+- `06-unmatched-codes.csv` — 62 rows with no usable Signys code
+- `06-codes-to-confirm.csv` — 27 letters-only codes to check against the feed
 - `06-duplicate-codes.csv` — the 104 code groups covering 224 old URLs
 
 ## What arrived, what is still missing
@@ -54,7 +55,11 @@ Junk in the code column, i.e. the field was used as free text:
 - **`473878` has code `NESMÍ NA WEB!!!!`** (`/romo-rhd2073a/`). A staff instruction, not a code. This product must be excluded from the import and the decision confirmed with Bíbo. It also means the old `code` field cannot be trusted as a code field in general.
 - `501731` code `-`; `456840` code `halapaš`; `295568` code `Čajčík`.
 
-**64 rows have no usable code** (58 KAT placeholders + 2 empty + `-` + the staff note + 2 free-text words). These need manual mapping or name matching — `06-unmatched-codes.csv` is the worklist.
+**62 rows have no usable code**: 58 KAT placeholders, 2 empty, a bare `-`, and the staff note. These need manual mapping or name matching, and `06-unmatched-codes.csv` is the worklist.
+
+An earlier count here said 64, by also discarding `halapaš` and `Čajčík` as free text. That was wrong, and the way it was wrong matters: the rule behind it was "a code with no digit is not a code", which also discards 25 codes that are plainly real (`GOGDRZAKTILTL`, `ELPNEPTUN`, `SMAWAMYCLBK`). Nothing tells the two Czech words apart from the rest by shape, so all 27 letters-only codes stay candidates and the Signys feed settles them. They are listed in `06-codes-to-confirm.csv`.
+
+The authoritative implementation of these rules is `src/domain/erpCode.ts`, whose tests assert the counts above against `data/export/url_map.csv` itself.
 
 ## The kartotéka problem, quantified
 104 codes are shared by 224 old URLs: 93 pairs, 7 triples, 3 quadruples, 1 quintuple. Looking at

@@ -1,0 +1,2725 @@
+[
+ {
+  "oldId": 8,
+  "slug": "super-ceny",
+  "name": "Super ceny",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 16,
+  "slug": "velke-spotrebice",
+  "name": "Velké spotřebiče",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 17,
+  "slug": "male-spotrebice",
+  "name": "Malé spotřebiče",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 18,
+  "slug": "elektronika",
+  "name": "Elektronika",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 19,
+  "slug": "it-pocitace",
+  "name": "IT, počítače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 20,
+  "slug": "hracky",
+  "name": "Hračky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 26,
+  "slug": "dum-a-dilna",
+  "name": "Dům a dílna",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 27,
+  "slug": "les-a-zahrada",
+  "name": "Les a zahrada",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 28,
+  "slug": "ctyrkolky-a-skutry",
+  "name": "Čtyřkolky a skútry",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 32,
+  "slug": "lednicky",
+  "name": "Ledničky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 33,
+  "slug": "mrazaky",
+  "name": "Mrazáky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 34,
+  "slug": "pracky",
+  "name": "Pračky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 35,
+  "slug": "susicky-pradla",
+  "name": "Sušičky prádla",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 36,
+  "slug": "mycky",
+  "name": "Myčky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 37,
+  "slug": "sporaky",
+  "name": "Sporáky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 38,
+  "slug": "vestavne-spotrebice",
+  "name": "Vestavné spotřebiče",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 39,
+  "slug": "kuchynske-spotrebice",
+  "name": "Kuchyňské spotřebiče",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 40,
+  "slug": "vareni",
+  "name": "Vaření",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 41,
+  "slug": "pece-o-telo",
+  "name": "Péče o tělo",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 42,
+  "slug": "vysavace",
+  "name": "Vysavače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 43,
+  "slug": "potreby-do-kuchyne",
+  "name": "Potřeby do kuchyně",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 44,
+  "slug": "ostatni",
+  "name": "Ostatní",
+  "parentOldId": null,
+  "needsReslug": true
+ },
+ {
+  "oldId": 45,
+  "slug": "televize",
+  "name": "Televize",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 46,
+  "slug": "audio-video",
+  "name": "Audio, video",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 47,
+  "slug": "ohrivace-vody",
+  "name": "Ohřívače vody",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 48,
+  "slug": "telefony",
+  "name": "Telefony",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 49,
+  "slug": "notebooky",
+  "name": "Notebooky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 51,
+  "slug": "tablety",
+  "name": "Tablety",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 52,
+  "slug": "tiskarny",
+  "name": "Tiskárny",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 53,
+  "slug": "monitory",
+  "name": "Monitory",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 54,
+  "slug": "herni-konzole",
+  "name": "Herní konzole",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 56,
+  "slug": "kamery",
+  "name": "Kamery",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 57,
+  "slug": "it-prislusenstvi",
+  "name": "IT příslušenství",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 58,
+  "slug": "zahradni-nabytek",
+  "name": "Zahradní nábytek",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 59,
+  "slug": "traktory-sekacky",
+  "name": "Traktory, sekačky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 60,
+  "slug": "stipace-drtice",
+  "name": "Štípače, drtiče",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 61,
+  "slug": "pily-plotostrihy",
+  "name": "Pily, plotostřihy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 62,
+  "slug": "snehove-frezy",
+  "name": "Sněhové frézy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 63,
+  "slug": "vodarny-cerpadla",
+  "name": "Vodárny, čerpadla",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 64,
+  "slug": "kotle-kamna-krby",
+  "name": "Kotle, kamna, krby",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 65,
+  "slug": "elektricke-naradi",
+  "name": "Elektrické nářadí",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 66,
+  "slug": "rucni-naradi",
+  "name": "Ruční nářadí",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 67,
+  "slug": "hracky-pro-kluky",
+  "name": "Pro kluky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 68,
+  "slug": "hracky-pro-holky",
+  "name": "Pro holky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 70,
+  "slug": "ctyrkolky",
+  "name": "Čtyřkolky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 71,
+  "slug": "skutry-a-motocykly",
+  "name": "Skútry a motocykly",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 72,
+  "slug": "moto-prislusenstvi",
+  "name": "Moto příslušenství",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 73,
+  "slug": "nahradni-dily",
+  "name": "Náhradní díly",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 74,
+  "slug": "zahradni-traktory",
+  "name": "Zahradní traktory",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 75,
+  "slug": "elektricke-sekacky",
+  "name": "Elektrické sekačky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 76,
+  "slug": "benzinove-sekacky",
+  "name": "Benzínové sekačky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 77,
+  "slug": "provzdusnovace-kyprice",
+  "name": "Provzdušňovače, kypřiče",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 78,
+  "slug": "vrtacky-sroubovaky-michadla",
+  "name": "Vrtačky, šroubováky, míchadla",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 79,
+  "slug": "aku-naradi",
+  "name": "Aku nářadí",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 81,
+  "slug": "pily-rezacky",
+  "name": "Pily, řezačky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 82,
+  "slug": "brusky",
+  "name": "Brusky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 84,
+  "slug": "kompresory",
+  "name": "Kompresory",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 86,
+  "slug": "auta-motorky-traktory",
+  "name": "Auta, Motorky, Traktory",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 87,
+  "slug": "jizdni-prostredky",
+  "name": "Jízdní prostředky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 88,
+  "slug": "prislusenstvi-ke-strojum",
+  "name": "Příslušenství ke strojům",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 89,
+  "slug": "aku-sekacky",
+  "name": "Aku sekačky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 90,
+  "slug": "nadobi-dozy-lahve",
+  "name": "Nádobí, dózy, láhve",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 91,
+  "slug": "prislusenstvi-k-tv",
+  "name": "Přislušenství k TV",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 92,
+  "slug": "autokamery",
+  "name": "Autokamery",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 93,
+  "slug": "autoradia",
+  "name": "Autorádia",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 96,
+  "slug": "lednicky-samostatne",
+  "name": "Ledničky samostatné",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 97,
+  "slug": "lednicky-s-mrazakem",
+  "name": "Ledničky s mrazákem",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 98,
+  "slug": "infrasauny",
+  "name": "Infrasauny",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 99,
+  "slug": "infrasauny-pro-1-osobu",
+  "name": "Infrasauny pro 1 osobu",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 100,
+  "slug": "infrasauny-pro-4-osoby",
+  "name": "Infrasauny pro 4 osoby",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 101,
+  "slug": "infrasauny-pro-3-osoby",
+  "name": "Infrasauny pro 3 osoby",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 102,
+  "slug": "infrasauny-pro-2-osoby",
+  "name": "Infrasauny pro 2 osoby",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 103,
+  "slug": "mrazaky-zasuvkove",
+  "name": "Mrazáky zásuvkové",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 104,
+  "slug": "mrazaky-pultove",
+  "name": "Mrazáky pultové",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 105,
+  "slug": "standardni-60-cm",
+  "name": "Standardní (60 cm)",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 106,
+  "slug": "uzke-45-cm",
+  "name": "Úzké (45 cm)",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 107,
+  "slug": "pracky-se-susickou",
+  "name": "Pračky se sušičkou",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 108,
+  "slug": "pracky-s-prednim-plnenim",
+  "name": "Pračky s předním plněním",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 109,
+  "slug": "pracky-s-hornim-plnenim",
+  "name": "Pračky s horním plněním",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 111,
+  "slug": "cistic-obuvi-parni-cistice",
+  "name": "Čističe oken, parní čističe",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 112,
+  "slug": "odstavnovace",
+  "name": "Odšťavňovače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 113,
+  "slug": "pekarny-chleba",
+  "name": "Pekárny chleba",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 114,
+  "slug": "varice",
+  "name": "Vařiče",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 115,
+  "slug": "feny",
+  "name": "Fény",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 116,
+  "slug": "fritezy",
+  "name": "Fritézy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 117,
+  "slug": "kulmy",
+  "name": "Kulmy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 118,
+  "slug": "kontaktni-grily-a-remosky",
+  "name": "Kontaktní grily a remosky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 119,
+  "slug": "zavarovaci-hrnce",
+  "name": "Zavařovací hrnce",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 120,
+  "slug": "kavovary-a-kavomlynky",
+  "name": "Kávovary a kávomlýnky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 121,
+  "slug": "krajece-potravin",
+  "name": "Kráječe potravin",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 122,
+  "slug": "kuchynske-roboty",
+  "name": "Kuchyňské roboty",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 124,
+  "slug": "mikrovlnne-trouby",
+  "name": "Mikrovlnné trouby",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 125,
+  "slug": "mlynky-na-maso",
+  "name": "Mlýnky na maso",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 126,
+  "slug": "prislusenstvi-ke-kuchynskym-spotrebicum",
+  "name": "Příslušenství ke kuchyňským spotřebičům",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 127,
+  "slug": "odstranovace-zmolku",
+  "name": "Odstraňovače žmolků",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 128,
+  "slug": "topidla",
+  "name": "Topidla",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 129,
+  "slug": "panve",
+  "name": "Pánve",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 130,
+  "slug": "rucni-slehace",
+  "name": "Ruční šlehače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 131,
+  "slug": "rychlovarne-konvice",
+  "name": "Rychlovarné konvice",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 132,
+  "slug": "prutokove-ohrivace",
+  "name": "Průtokové ohřívače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 133,
+  "slug": "sendvicovace-a-topinkovace",
+  "name": "Sendvičovače a topinkovače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 134,
+  "slug": "susicky-potravin",
+  "name": "Sušičky potravin",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 135,
+  "slug": "vakuovaci-a-laminovaci-pristroje",
+  "name": "Vakuovací a laminovací přístroje",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 136,
+  "slug": "kuchynske-vahy",
+  "name": "Kuchyňské váhy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 137,
+  "slug": "vahy-osobni",
+  "name": "Váhy osobní",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 138,
+  "slug": "vyrobniky-sody",
+  "name": "Výrobníky sody",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 139,
+  "slug": "podlahove-vysavace",
+  "name": "Podlahové vysavače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 143,
+  "slug": "roboticke-vysavace",
+  "name": "Robotické vysavače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 145,
+  "slug": "rucni-vysavace",
+  "name": "Ruční vysavače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 146,
+  "slug": "zastrihovace-vlasu-vousu",
+  "name": "Zastřihovače vlasů, vousů",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 147,
+  "slug": "zehlicky-na-vlasy",
+  "name": "Žehličky na vlasy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 148,
+  "slug": "zubni-kartacky",
+  "name": "Zubní kartáčky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 154,
+  "slug": "dvd-blue-ray-prehravace",
+  "name": "DVD/Blue-Ray přehrávače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 155,
+  "slug": "kapesni-hry",
+  "name": "Kapesní hry",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 158,
+  "slug": "led-televize",
+  "name": "LED televize",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 161,
+  "slug": "set-top-boxy-satelity",
+  "name": "Set-top boxy, satelity",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 164,
+  "slug": "retro-gramofony",
+  "name": "Retro, gramofony",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 165,
+  "slug": "radioprijimace",
+  "name": "Radiopřijímače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 166,
+  "slug": "meteostanice",
+  "name": "Meteostanice",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 167,
+  "slug": "radiobudiky",
+  "name": "Radiobudíky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 168,
+  "slug": "audiosystemy",
+  "name": "Audiosystémy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 169,
+  "slug": "radia-s-cd-mp3",
+  "name": "Rádia s CD/MP3",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 171,
+  "slug": "cisticky-a-zvlhcovace-vzduchu",
+  "name": "Čističky a zvlhčovače vzduchu",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 172,
+  "slug": "vyhrivaci-decky-boty",
+  "name": "Vyhřívací dečky, boty",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 173,
+  "slug": "filtracni-konvice",
+  "name": "Filtrační konvice",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 174,
+  "slug": "tlakomery-teplomery",
+  "name": "Tlakoměry, teploměry",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 176,
+  "slug": "ostatni-naradi",
+  "name": "Ostatní nářadí",
+  "parentOldId": null,
+  "needsReslug": true
+ },
+ {
+  "oldId": 178,
+  "slug": "prislusenstvi",
+  "name": "Příslušenství",
+  "parentOldId": null,
+  "needsReslug": true
+ },
+ {
+  "oldId": 180,
+  "slug": "ochranne-pomucky",
+  "name": "Ochranné pomůcky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 181,
+  "slug": "manipulacni-technika",
+  "name": "Manipulační technika",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 182,
+  "slug": "ponorna-cerpadla",
+  "name": "Ponorná čerpadla",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 183,
+  "slug": "kalova-cerpadla",
+  "name": "Kalová čerpadla",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 184,
+  "slug": "vodarny-zahradni-cerpadla",
+  "name": "Vodárny, zahradní čerpadla",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 185,
+  "slug": "skleniky-zahradni-domky",
+  "name": "Skleníky, zahradní domky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 186,
+  "slug": "drtice-vetvi",
+  "name": "Drtiče větví",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 187,
+  "slug": "elektricke-snehove-frezy",
+  "name": "Elektrické frézy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 188,
+  "slug": "benzinove-snehove-frezy",
+  "name": "Benzínové frézy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 189,
+  "slug": "elektricke-pily",
+  "name": "Elektrické pily",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 190,
+  "slug": "benzinove-pily",
+  "name": "Benzínové pily",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 191,
+  "slug": "plotostrihy",
+  "name": "Plotostřihy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 193,
+  "slug": "vysavace-listi-rosice-postrikovace",
+  "name": "Vysavače listí, rosiče",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 195,
+  "slug": "zahradni-houpacky-slunecniky",
+  "name": "Houpačky, slunečníky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 198,
+  "slug": "stipacky-na-drevo",
+  "name": "Štípačky na dřevo",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 199,
+  "slug": "krovinorezy",
+  "name": "Křovinořezy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 201,
+  "slug": "zahradni-sety",
+  "name": "Zahradní sety",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 202,
+  "slug": "lehatka-lavice-posezeni-na-zahrade",
+  "name": "Židle, lehátka, lavice",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 203,
+  "slug": "bubnove-a-listove-sekacky",
+  "name": "Bubnovky a lištovky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 208,
+  "slug": "videokamery",
+  "name": "Videokamery",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 210,
+  "slug": "paraky-kotle-na-brambory-brutary",
+  "name": "Pařáky, kotle, brutary",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 211,
+  "slug": "bazeny-virivky",
+  "name": "Bazény, vířivky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 212,
+  "slug": "vestavne-trouby",
+  "name": "Vestavné trouby",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 215,
+  "slug": "vestavne-mycky",
+  "name": "Vestavné myčky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 218,
+  "slug": "sporaky-elektricke",
+  "name": "Sporáky elektrické",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 219,
+  "slug": "sporaky-plynove",
+  "name": "Sporáky plynové",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 220,
+  "slug": "sporaky-kombinovane",
+  "name": "Sporáky kombinované",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 223,
+  "slug": "sici-stroje",
+  "name": "Šicí stroje",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 224,
+  "slug": "vari-system",
+  "name": "Vari systém",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 228,
+  "slug": "odsavace-par-digestore",
+  "name": "Odsavače par",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 230,
+  "slug": "mobilni-telefony",
+  "name": "Mobilní telefony",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 231,
+  "slug": "holici-strojky-epilatory",
+  "name": "Holicí strojky, epilátory",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 235,
+  "slug": "prislusenstvi-pro-tablety",
+  "name": "Příslušenství pro tablety",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 236,
+  "slug": "ohrivace-vody-zasobnikove-bojlery",
+  "name": "Zásobníkové ohřívače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 237,
+  "slug": "pametova-media-hard-disky-pametove-karty",
+  "name": "Paměťová média",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 238,
+  "slug": "outdoorove-kamery",
+  "name": "Outdoorové kamery",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 239,
+  "slug": "pracky-virive-a-odstredivky",
+  "name": "Pračky vířivé a odstředivky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 240,
+  "slug": "helmy",
+  "name": "Helmy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 244,
+  "slug": "multifunkcni-inkoustove-tiskarny",
+  "name": "Inkoustové multifunkční",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 245,
+  "slug": "laserove-multifunkcni-tiskarny",
+  "name": "Laserové multifunkční",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 246,
+  "slug": "led-lcd-monitory",
+  "name": "LED/LCD monitory",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 247,
+  "slug": "virivky-volne-stojici",
+  "name": "Vířivky volně stojící",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 248,
+  "slug": "ctyrkolky-pro-dospele",
+  "name": "Čtyřkolky pro dospělé",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 253,
+  "slug": "prumyslove-vysavace-vysavace-popela",
+  "name": "Průmyslové vysavače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 254,
+  "slug": "rotacni-kartace-na-odklizeni-snehu",
+  "name": "Rotační kartáče",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 255,
+  "slug": "laserove-tiskarny",
+  "name": "Laserové tiskárny",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 256,
+  "slug": "skutry",
+  "name": "Skútry",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 259,
+  "slug": "dilenske-stoly",
+  "name": "Dílenské stoly",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 262,
+  "slug": "bazeny",
+  "name": "Bazény",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 266,
+  "slug": "silikony-lepidla-montazni-peny-chem-kotvy",
+  "name": "Silikony, lepidla, pěny",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 267,
+  "slug": "kamna-krby",
+  "name": "Kamna, krby",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 269,
+  "slug": "bazenova-chemie",
+  "name": "Bazénová chemie",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 270,
+  "slug": "prislusenstvi-k-bazenum",
+  "name": "Příslušenství k bazénům",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 271,
+  "slug": "klavesnice-mysi-a-jine",
+  "name": "Klávesnice, myši a jiné",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 273,
+  "slug": "ostatni-273",
+  "name": "Ostatní",
+  "parentOldId": null,
+  "needsReslug": true
+ },
+ {
+  "oldId": 274,
+  "slug": "prislusenstvi-k-pilam",
+  "name": "Příslušenství k pilám",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 275,
+  "slug": "navigace",
+  "name": "Navigace",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 276,
+  "slug": "kolobezky",
+  "name": "Koloběžky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 278,
+  "slug": "plysaci",
+  "name": "Plyšáci",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 279,
+  "slug": "skenery-pokladni-tiskarny",
+  "name": "Skenery/Pokladní tiskárny",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 280,
+  "slug": "stavebnice",
+  "name": "Stavebnice",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 281,
+  "slug": "detske-ctyrkolky",
+  "name": "Dětské čtyřkolky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 282,
+  "slug": "vlaky-a-lode",
+  "name": "Vlaky a Lodě",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 283,
+  "slug": "letadla-vrtulniky",
+  "name": "Letadla, Vrtulníky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 284,
+  "slug": "odrazedla",
+  "name": "Odrážedla",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 285,
+  "slug": "ostatni-hracky",
+  "name": "Ostatní hračky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 286,
+  "slug": "figurky",
+  "name": "Figurky",
+  "parentOldId": null,
+  "needsReslug": true
+ },
+ {
+  "oldId": 287,
+  "slug": "spolecenske-hry",
+  "name": "Společenské hry",
+  "parentOldId": null,
+  "needsReslug": true
+ },
+ {
+  "oldId": 288,
+  "slug": "ostatni-divci",
+  "name": "Ostatní dívčí",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 289,
+  "slug": "panenky-a-miminka",
+  "name": "Panenky a miminka",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 290,
+  "slug": "pro-nejmensi",
+  "name": "Pro nejmenší",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 293,
+  "slug": "prislusenstvi-k-telefonum",
+  "name": "Příslušenství k telefonům",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 295,
+  "slug": "pevne-telefony-faxy",
+  "name": "Pevné telefony/Faxy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 296,
+  "slug": "reproduktory",
+  "name": "Reproduktory",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 297,
+  "slug": "sluchatka",
+  "name": "Sluchátka",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 299,
+  "slug": "prislusenstvi-k-notebokum",
+  "name": "Příslušenství k notebokům",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 303,
+  "slug": "ostatni-nahradni-dily",
+  "name": "Ostatní náhradní díly",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 304,
+  "slug": "ctyrkolky-nahradni-dily",
+  "name": "Čtyřkolky - náhradní díly",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 305,
+  "slug": "zahradni-technika-dily",
+  "name": "Zahradní technika - díly",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 306,
+  "slug": "skutry-nahradni-dily",
+  "name": "Skútry - náhradní díly",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 309,
+  "slug": "inkoustove-tiskarny",
+  "name": "Inkoustové tiskárny",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 310,
+  "slug": "kopirky-plottery",
+  "name": "Kopírky/Plottery",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 312,
+  "slug": "kalkulacky",
+  "name": "Kalkulačky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 314,
+  "slug": "prislusenstvi-pro-kamery",
+  "name": "Příslušenství pro kamery",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 319,
+  "slug": "gsm-telefony",
+  "name": "GSM Telefony",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 321,
+  "slug": "cartridge-tonery",
+  "name": "Cartridge/Tonery",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 325,
+  "slug": "projektory-a-jine",
+  "name": "Projektory a jiné",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 326,
+  "slug": "husqvarna-nahradni-dily",
+  "name": "Husqvarna - náhradní díly",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 328,
+  "slug": "vysilacky",
+  "name": "Vysílačky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 330,
+  "slug": "klimatizace",
+  "name": "Klimatizace",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 332,
+  "slug": "ostatni-332",
+  "name": "Ostatní",
+  "parentOldId": null,
+  "needsReslug": true
+ },
+ {
+  "oldId": 340,
+  "slug": "kostymy",
+  "name": "Kostýmy, šaty",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 343,
+  "slug": "puzzle",
+  "name": "Puzzle",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 345,
+  "slug": "rc-modely",
+  "name": "RC modely",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 349,
+  "slug": "osvetleni",
+  "name": "Osvětlení",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 351,
+  "slug": "tlakove-mycky-wapky",
+  "name": "Tlakové myčky, wapky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 353,
+  "slug": "zahradni-jezirka",
+  "name": "Zahradní jezírka",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 354,
+  "slug": "skleniky-a-zahradni-domky",
+  "name": "Skleníky a zahradní domky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 355,
+  "slug": "zahradni-grily",
+  "name": "Zahradní grily",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 356,
+  "slug": "jezirka",
+  "name": "Jezírka",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 357,
+  "slug": "cerpadla-do-jezirka",
+  "name": "Čerpadla do jezírka",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 359,
+  "slug": "hodinky-naramky",
+  "name": "Hodinky, náramky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 360,
+  "slug": "trampoliny",
+  "name": "Trampolíny",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 362,
+  "slug": "kocarky-postylky-pro-panenky",
+  "name": "Kočárky, postýlky pro panenky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 363,
+  "slug": "slizy-hmoty-modelina",
+  "name": "Slizy, hmoty, modelína",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 364,
+  "slug": "hudebni-nastroje",
+  "name": "Hudební nástroje",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 365,
+  "slug": "figurky-365",
+  "name": "Figurky",
+  "parentOldId": null,
+  "needsReslug": true
+ },
+ {
+  "oldId": 366,
+  "slug": "hry-na-profese",
+  "name": "Hry na profese",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 376,
+  "slug": "interaktivni-a-mluvici",
+  "name": "Interaktivní a mluvící",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 381,
+  "slug": "sanita-a-koupelny",
+  "name": "Sanita a koupelny",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 384,
+  "slug": "pokladnicky-bublifuky-budiky",
+  "name": "Pokladničky, bublifuky, budíky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 385,
+  "slug": "na-ven-a-sport",
+  "name": "Na ven a sport",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 387,
+  "slug": "kreativni-sady",
+  "name": "Kreativní sady",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 388,
+  "slug": "elektro-prislusenstvi",
+  "name": "Elektro-příslušenství",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 390,
+  "slug": "malovani",
+  "name": "Malování",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 393,
+  "slug": "karetni-hry",
+  "name": "Karetní hry",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 407,
+  "slug": "albi",
+  "name": "ALBI",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 408,
+  "slug": "kouzelne-cteni",
+  "name": "Kouzelné čtení",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 410,
+  "slug": "spolecenske-hry-410",
+  "name": "Společenské hry",
+  "parentOldId": null,
+  "needsReslug": true
+ },
+ {
+  "oldId": 416,
+  "slug": "cajove-konvice",
+  "name": "Čajové konvice",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 418,
+  "slug": "zabava-ve-vode",
+  "name": "Zábava ve vodě",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 422,
+  "slug": "elektroinstalacni-material",
+  "name": "Elektroinstalační materiál",
+  "parentOldId": null,
+  "needsReslug": true
+ },
+ {
+  "oldId": 430,
+  "slug": "baterie",
+  "name": "Baterie",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 431,
+  "slug": "baterie-vodovodni",
+  "name": "Baterie vodovodní",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 432,
+  "slug": "prislusenstvi-432",
+  "name": "Příslušenství",
+  "parentOldId": null,
+  "needsReslug": true
+ },
+ {
+  "oldId": 434,
+  "slug": "prislusenstvi-434",
+  "name": "Příslušenství",
+  "parentOldId": null,
+  "needsReslug": true
+ },
+ {
+  "oldId": 435,
+  "slug": "ostatni-435",
+  "name": "Ostatní",
+  "parentOldId": null,
+  "needsReslug": true
+ },
+ {
+  "oldId": 436,
+  "slug": "hrabe-lopaty",
+  "name": "Hrábě, lopaty",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 437,
+  "slug": "nuzky-na-vetve",
+  "name": "Nůžky na větve",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 438,
+  "slug": "popelnice",
+  "name": "Popelnice",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 439,
+  "slug": "zarovky",
+  "name": "Žárovky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 440,
+  "slug": "vanocni-osvetleni",
+  "name": "Vánoční osvětlení",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 441,
+  "slug": "merici-technika",
+  "name": "Měřící technika",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 444,
+  "slug": "zavlazovani",
+  "name": "Zavlažování",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 445,
+  "slug": "rucni-pilky",
+  "name": "Ruční pilky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 447,
+  "slug": "udrzba-domacnosti",
+  "name": "Údržba domácnosti",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 448,
+  "slug": "pasti-a-odpuzovace-hlodavcu",
+  "name": "Pasti a odpuzovače hlodavců",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 449,
+  "slug": "sudy-barely",
+  "name": "Sudy, barely",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 456,
+  "slug": "vrtaci-a-bouraci-kladiva",
+  "name": "Vrtací a bourací kladiva",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 469,
+  "slug": "hobliky-frezky",
+  "name": "Hoblíky, frézky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 476,
+  "slug": "ampermetry-a-voltmetry-multimetry",
+  "name": "Ampérmetry a voltmetry multimetry",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 477,
+  "slug": "svareci-technika",
+  "name": "Svářecí technika",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 479,
+  "slug": "pracovni-rukavice",
+  "name": "Pracovní rukavice",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 480,
+  "slug": "baterky-celovky-a-svitilny",
+  "name": "Baterky, čelovky a svítilny",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 481,
+  "slug": "gola-sady-gola-klice-racny",
+  "name": "Gola sady, gola klíče, ráčny",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 482,
+  "slug": "kladiva-palice",
+  "name": "Kladiva, palice",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 483,
+  "slug": "sekery",
+  "name": "Sekery",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 484,
+  "slug": "pily-a-pilky",
+  "name": "Pily a pilky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 485,
+  "slug": "kufry-boxy",
+  "name": "Kufry, boxy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 486,
+  "slug": "sady-naradi",
+  "name": "Sady nářadí",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 488,
+  "slug": "prislusenstvi-ke-sporakum",
+  "name": "Příslušenství ke sporákům",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 489,
+  "slug": "ty-plysaci",
+  "name": "TY plyšáci",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 492,
+  "slug": "uklidove-pomucky",
+  "name": "Úklidové pomůcky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 493,
+  "slug": "ostatni-naradi-493",
+  "name": "Ostatní nářadí",
+  "parentOldId": null,
+  "needsReslug": true
+ },
+ {
+  "oldId": 500,
+  "slug": "zvonky",
+  "name": "Zvonky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 501,
+  "slug": "plachty",
+  "name": "Plachty",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 502,
+  "slug": "drevene-hracky",
+  "name": "Dřevěné hračky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 505,
+  "slug": "prislusenstvi-k-sekackam-a-krovinorezum",
+  "name": "Příslušenství k sekačkám a křovinořezům",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 516,
+  "slug": "substraty",
+  "name": "Substráty",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 517,
+  "slug": "alkotestery",
+  "name": "Alkotestery",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 522,
+  "slug": "cerpadla",
+  "name": "Čerpadla",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 524,
+  "slug": "laminovacky",
+  "name": "Laminovačky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 525,
+  "slug": "prislusenstvi-k-vysavacum",
+  "name": "Příslušenství k vysavačům",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 528,
+  "slug": "postovni-schranky",
+  "name": "Poštovní schránky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 530,
+  "slug": "ryzovary",
+  "name": "Rýžovary",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 531,
+  "slug": "skartovacky",
+  "name": "Skartovačky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 532,
+  "slug": "prislusenstvi-k-prackam-a-susickam",
+  "name": "Příslušenství k pračkám a sušičkám",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 533,
+  "slug": "powerbanky",
+  "name": "Powerbanky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 534,
+  "slug": "infralampy",
+  "name": "Infralampy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 536,
+  "slug": "pece-o-nohy",
+  "name": "Péče o nohy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 538,
+  "slug": "ulozne-boxy-kose",
+  "name": "Úložné boxy, koše",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 541,
+  "slug": "kultivatory",
+  "name": "Kultivátory",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 542,
+  "slug": "spojovaci-nastroje-a-material",
+  "name": "Spojovací nástroje a materiál",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 543,
+  "slug": "webkamery",
+  "name": "Webkamery",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 548,
+  "slug": "pistole",
+  "name": "Pistole",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 551,
+  "slug": "mereni-teploty",
+  "name": "Měření teploty",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 553,
+  "slug": "alarmy-senzory",
+  "name": "Alarmy, senzory",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 554,
+  "slug": "kompostery",
+  "name": "Kompostéry",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 556,
+  "slug": "ustni-sprchy",
+  "name": "Ústní sprchy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 557,
+  "slug": "kliky-vlozky-do-dveri",
+  "name": "Kliky, vložky do dveří",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 558,
+  "slug": "nabytkove-uchytky",
+  "name": "Nábytkové úchytky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 559,
+  "slug": "drezy-a-prislusenstvi",
+  "name": "Dřezy a příslušenství",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 560,
+  "slug": "vzduchotechnika",
+  "name": "Vzduchotechnika",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 563,
+  "slug": "kolebkove-pily",
+  "name": "Kolébkové pily",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 564,
+  "slug": "zahradni-naradi",
+  "name": "Zahradní nářadí",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 566,
+  "slug": "postrikovace",
+  "name": "Postřikovače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 567,
+  "slug": "ryce",
+  "name": "Rýče",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 571,
+  "slug": "varne-desky",
+  "name": "Varné desky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 572,
+  "slug": "kancelarske-potreby",
+  "name": "Kancelářské potřeby",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 573,
+  "slug": "susaky-na-pradlo",
+  "name": "Sušáky na prádlo",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 577,
+  "slug": "elektrocentraly",
+  "name": "Elektrocentrály",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 578,
+  "slug": "lapace-a-hubice-hmyzu",
+  "name": "Lapače a hubiče hmyzu",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 579,
+  "slug": "ventilatory",
+  "name": "Ventilátory",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 580,
+  "slug": "zahradnicke-potreby",
+  "name": "Zahradnické potřeby",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 583,
+  "slug": "kvetinace",
+  "name": "Květináče",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 584,
+  "slug": "dekorace-do-bytu",
+  "name": "Dekorace do bytu",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 589,
+  "slug": "nastenne-hodiny",
+  "name": "Nástěnné hodiny",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 590,
+  "slug": "prislusenstvi-toalety",
+  "name": "Příslušenství toalety",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 591,
+  "slug": "vyzinace",
+  "name": "Vyžínače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 594,
+  "slug": "zehleni",
+  "name": "Žehlení",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 595,
+  "slug": "zehlici-prkna",
+  "name": "Žehlicí prkna",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 596,
+  "slug": "naparovaci-zehlicky",
+  "name": "Napařovací žehličky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 597,
+  "slug": "suche-zehlicky",
+  "name": "Suché žehličky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 598,
+  "slug": "cestovni-chladnicky",
+  "name": "Cestovní chladničky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 600,
+  "slug": "zahradni-nacini",
+  "name": "Zahradní náčiní",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 601,
+  "slug": "plachty-a-textilie",
+  "name": "Plachty a textilie",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 603,
+  "slug": "multifunkcni-hrnce",
+  "name": "Multifunkční hrnce",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 605,
+  "slug": "pokladny-kasy",
+  "name": "Pokladny, kasy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 607,
+  "slug": "budiky",
+  "name": "Budíky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 608,
+  "slug": "elektroinstalacni-material-608",
+  "name": "Elektroinstalační materiál",
+  "parentOldId": null,
+  "needsReslug": true
+ },
+ {
+  "oldId": 609,
+  "slug": "zamky-vlozky",
+  "name": "zámky, vložky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 610,
+  "slug": "prodluzovaci-kabely",
+  "name": "Prodlužovací kabely",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 611,
+  "slug": "nabijecky",
+  "name": "Nabíječky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 613,
+  "slug": "jidlonosice",
+  "name": "Jídlonosiče",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 614,
+  "slug": "termosky",
+  "name": "Termosky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 617,
+  "slug": "nuzky",
+  "name": "Nůžky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 619,
+  "slug": "sroubovaky",
+  "name": "Šroubováky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 620,
+  "slug": "odvlhcovace-vzduchu",
+  "name": "Odvlhčovače vzduchu",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 622,
+  "slug": "mini-trouby",
+  "name": "Mini trouby",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 623,
+  "slug": "hrnce",
+  "name": "Hrnce",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 624,
+  "slug": "tlakove-hrnce",
+  "name": "Tlakové hrnce",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 626,
+  "slug": "pekace",
+  "name": "Pekáče",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 627,
+  "slug": "odpadkove-kose",
+  "name": "Odpadkové koše",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 629,
+  "slug": "formy-na-peceni",
+  "name": "Formy na pečení",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 630,
+  "slug": "mlynky-na-koreni",
+  "name": "Mlýnky na koření",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 633,
+  "slug": "lampicky-stolni",
+  "name": "Lampičky stolní",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 634,
+  "slug": "noze",
+  "name": "Nože",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 635,
+  "slug": "termostaty",
+  "name": "Termostaty",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 639,
+  "slug": "pece-o-rostliny-a-pestovani-rostlin",
+  "name": "Péče o rostliny a pěstování rostlin",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 640,
+  "slug": "hnojiva",
+  "name": "Hnojiva",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 641,
+  "slug": "travni-smesy",
+  "name": "Travní směsy",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 642,
+  "slug": "prostredky-proti-skudcum",
+  "name": "Prostředky proti škůdcům",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 644,
+  "slug": "rezne-a-brusne-nastroje",
+  "name": "Řezné a brusné nástroje",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 646,
+  "slug": "spojky-na-hadice",
+  "name": "Spojky na hadice",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 647,
+  "slug": "figurky-a-zviratka",
+  "name": "Figurky a zvířátka",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 648,
+  "slug": "elektricke-voziky-a-skutry-selvo",
+  "name": "Elektrické vozíky a skútry SELVO",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 649,
+  "slug": "stavebni-a-zahradni-kolecka",
+  "name": "Stavební a zahradní kolečka",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 650,
+  "slug": "krumpace",
+  "name": "Krumpáče",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 651,
+  "slug": "zahradni-osvetleni",
+  "name": "Zahradní osvětlení",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 652,
+  "slug": "stojanky-na-stromecek",
+  "name": "Stojánky na stromeček",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 654,
+  "slug": "sifony",
+  "name": "Sifony",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 655,
+  "slug": "podlahove-vpusti",
+  "name": "Podlahové vpusti",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 656,
+  "slug": "ventily",
+  "name": "Ventily",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 657,
+  "slug": "flexi-pripojeni",
+  "name": "Flexi připojení",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 658,
+  "slug": "pistole-a-postrikovace",
+  "name": "Pistole a postřikovače",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 662,
+  "slug": "prislusenstvi-ke-grilum",
+  "name": "Příslušenství ke grilům",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 664,
+  "slug": "domovni-cisla",
+  "name": "Domovní čísla",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 666,
+  "slug": "mixery-a-sekacky",
+  "name": "Mixéry a sekáčky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 667,
+  "slug": "herni-prislusenstvi",
+  "name": "Herní příslušenství",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 668,
+  "slug": "halloween",
+  "name": "Halloween",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 669,
+  "slug": "brikety-palivove",
+  "name": "Brikety palivové",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 670,
+  "slug": "reflektory",
+  "name": "Reflektory",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 671,
+  "slug": "mikrofony",
+  "name": "Mikrofony",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 672,
+  "slug": "zbrane-pro-rekreacni-a-sportovni-ucely",
+  "name": "Zbraně pro rekreační a sportovní účely",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 674,
+  "slug": "prislusenstvi-ke-ctyrkolkam",
+  "name": "Příslušenství ke čtyřkolkám",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 675,
+  "slug": "vyrobniky-ledu",
+  "name": "Výrobníky ledu",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 676,
+  "slug": "outdoor-volny-cas",
+  "name": "Outdoor / volný čas",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 680,
+  "slug": "stavebni-materialy",
+  "name": "Stavební materiály",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 681,
+  "slug": "motocykly",
+  "name": "Motocykly",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 682,
+  "slug": "aku-pily-a-nuzky",
+  "name": "AKU pily a nůžky",
+  "parentOldId": null,
+  "needsReslug": false
+ },
+ {
+  "oldId": 683,
+  "slug": "barvy-a-spreje",
+  "name": "Barvy a Spreje",
+  "parentOldId": null,
+  "needsReslug": false
+ }
+]

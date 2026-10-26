@@ -57,9 +57,7 @@ id,old_path,code,reason
 202583,/powerplus-powe80070-michadlo-1200w/pro202583.html,KAT202583,KAT placeholder (own old id)
 205251,/mpm-mcz-85-konvice-bordo/pro205251.html,KAT205251,KAT placeholder (own old id)
 205253,/mpm-mcz-85-g1-konvice-seda/pro205253.html,KAT205253,KAT placeholder (own old id)
-523428,/sdxc-karta-64gb-kingston-canvas-select-plus-sd-adapter/pro523428.html,,empty
-525945,/karta-microsd-128gb-kingston-canvas-select-plus/pro525945.html,,empty
-295568,/avacom-nahradni-bat-samsung/pro295568.html,Čajčík,"free text, not a code"
-456840,/v-skrin-sil-63a/pro456840.html,halapaš,"free text, not a code"
-501731,/myphone-hammer-bow/pro501731.html,-,placeholder dash
-473878,/romo-rhd2073a/pro473878.html,NESMÍ NA WEB!!!!,staff note in code field - do not publish
+501731,/myphone-hammer-bow/pro501731.html,-,empty or a dash
+523428,/sdxc-karta-64gb-kingston-canvas-select-plus-sd-adapter/pro523428.html,,empty or a dash
+525945,/karta-microsd-128gb-kingston-canvas-select-plus/pro525945.html,,empty or a dash
+473878,/romo-rhd2073a/pro473878.html,NESMÍ NA WEB!!!!,staff note in the code field - do not publish
