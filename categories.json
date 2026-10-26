@@ -1,0 +1,1947 @@
+{
+ "8": {
+  "id": 8,
+  "url": "https://www.elektrodvorak.cz/super-ceny/kat8.html",
+  "name": "Super ceny"
+ },
+ "32": {
+  "id": 32,
+  "url": "https://www.elektrodvorak.cz/lednicky/kat32.html",
+  "name": "Ledničky"
+ },
+ "97": {
+  "id": 97,
+  "url": "https://www.elektrodvorak.cz/lednicky-s-mrazakem/kat97.html",
+  "name": "Ledničky s mrazákem"
+ },
+ "96": {
+  "id": 96,
+  "url": "https://www.elektrodvorak.cz/lednicky-samostatne/kat96.html",
+  "name": "Ledničky samostatné"
+ },
+ "598": {
+  "id": 598,
+  "url": "https://www.elektrodvorak.cz/cestovni-chladnicky/kat598.html",
+  "name": "Cestovní chladničky"
+ },
+ "33": {
+  "id": 33,
+  "url": "https://www.elektrodvorak.cz/mrazaky/kat33.html",
+  "name": "Mrazáky"
+ },
+ "103": {
+  "id": 103,
+  "url": "https://www.elektrodvorak.cz/mrazaky-zasuvkove/kat103.html",
+  "name": "Mrazáky zásuvkové"
+ },
+ "104": {
+  "id": 104,
+  "url": "https://www.elektrodvorak.cz/mrazaky-pultove/kat104.html",
+  "name": "Mrazáky pultové"
+ },
+ "34": {
+  "id": 34,
+  "url": "https://www.elektrodvorak.cz/pracky/kat34.html",
+  "name": "Pračky"
+ },
+ "108": {
+  "id": 108,
+  "url": "https://www.elektrodvorak.cz/pracky-s-prednim-plnenim/kat108.html",
+  "name": "Pračky s předním plněním"
+ },
+ "109": {
+  "id": 109,
+  "url": "https://www.elektrodvorak.cz/pracky-s-hornim-plnenim/kat109.html",
+  "name": "Pračky s horním plněním"
+ },
+ "107": {
+  "id": 107,
+  "url": "https://www.elektrodvorak.cz/pracky-se-susickou/kat107.html",
+  "name": "Pračky se sušičkou"
+ },
+ "239": {
+  "id": 239,
+  "url": "https://www.elektrodvorak.cz/pracky-virive-a-odstredivky/kat239.html",
+  "name": "Pračky vířivé a odstředivky"
+ },
+ "532": {
+  "id": 532,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-k-prackam-a-susickam/kat532.html",
+  "name": "Příslušenství k pračkám a sušičkám"
+ },
+ "35": {
+  "id": 35,
+  "url": "https://www.elektrodvorak.cz/susicky-pradla/kat35.html",
+  "name": "Sušičky prádla"
+ },
+ "36": {
+  "id": 36,
+  "url": "https://www.elektrodvorak.cz/mycky/kat36.html",
+  "name": "Myčky"
+ },
+ "105": {
+  "id": 105,
+  "url": "https://www.elektrodvorak.cz/standardni-60-cm/kat105.html",
+  "name": "Standardní (60 cm)"
+ },
+ "106": {
+  "id": 106,
+  "url": "https://www.elektrodvorak.cz/uzke-45-cm/kat106.html",
+  "name": "Úzké (45 cm)"
+ },
+ "37": {
+  "id": 37,
+  "url": "https://www.elektrodvorak.cz/sporaky/kat37.html",
+  "name": "Sporáky"
+ },
+ "218": {
+  "id": 218,
+  "url": "https://www.elektrodvorak.cz/sporaky-elektricke/kat218.html",
+  "name": "Sporáky elektrické"
+ },
+ "220": {
+  "id": 220,
+  "url": "https://www.elektrodvorak.cz/sporaky-kombinovane/kat220.html",
+  "name": "Sporáky kombinované"
+ },
+ "219": {
+  "id": 219,
+  "url": "https://www.elektrodvorak.cz/sporaky-plynove/kat219.html",
+  "name": "Sporáky plynové"
+ },
+ "488": {
+  "id": 488,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-ke-sporakum/kat488.html",
+  "name": "Příslušenství ke sporákům"
+ },
+ "38": {
+  "id": 38,
+  "url": "https://www.elektrodvorak.cz/vestavne-spotrebice/kat38.html",
+  "name": "Vestavné spotřebiče"
+ },
+ "212": {
+  "id": 212,
+  "url": "https://www.elektrodvorak.cz/vestavne-trouby/kat212.html",
+  "name": "Vestavné trouby"
+ },
+ "215": {
+  "id": 215,
+  "url": "https://www.elektrodvorak.cz/vestavne-mycky/kat215.html",
+  "name": "Vestavné myčky"
+ },
+ "571": {
+  "id": 571,
+  "url": "https://www.elektrodvorak.cz/varne-desky/kat571.html",
+  "name": "Varné desky"
+ },
+ "559": {
+  "id": 559,
+  "url": "https://www.elektrodvorak.cz/drezy-a-prislusenstvi/kat559.html",
+  "name": "Dřezy a příslušenství"
+ },
+ "228": {
+  "id": 228,
+  "url": "https://www.elektrodvorak.cz/odsavace-par-digestore/kat228.html",
+  "name": "Odsavače par"
+ },
+ "47": {
+  "id": 47,
+  "url": "https://www.elektrodvorak.cz/ohrivace-vody/kat47.html",
+  "name": "Ohřívače vody"
+ },
+ "236": {
+  "id": 236,
+  "url": "https://www.elektrodvorak.cz/ohrivace-vody-zasobnikove-bojlery/kat236.html",
+  "name": "Zásobníkové ohřívače"
+ },
+ "132": {
+  "id": 132,
+  "url": "https://www.elektrodvorak.cz/prutokove-ohrivace/kat132.html",
+  "name": "Průtokové ohřívače"
+ },
+ "98": {
+  "id": 98,
+  "url": "https://www.elektrodvorak.cz/infrasauny/kat98.html",
+  "name": "Infrasauny"
+ },
+ "99": {
+  "id": 99,
+  "url": "https://www.elektrodvorak.cz/infrasauny-pro-1-osobu/kat99.html",
+  "name": "Infrasauny pro 1 osobu"
+ },
+ "102": {
+  "id": 102,
+  "url": "https://www.elektrodvorak.cz/infrasauny-pro-2-osoby/kat102.html",
+  "name": "Infrasauny pro 2 osoby"
+ },
+ "101": {
+  "id": 101,
+  "url": "https://www.elektrodvorak.cz/infrasauny-pro-3-osoby/kat101.html",
+  "name": "Infrasauny pro 3 osoby"
+ },
+ "100": {
+  "id": 100,
+  "url": "https://www.elektrodvorak.cz/infrasauny-pro-4-osoby/kat100.html",
+  "name": "Infrasauny pro 4 osoby"
+ },
+ "39": {
+  "id": 39,
+  "url": "https://www.elektrodvorak.cz/kuchynske-spotrebice/kat39.html",
+  "name": "Kuchyňské spotřebiče"
+ },
+ "120": {
+  "id": 120,
+  "url": "https://www.elektrodvorak.cz/kavovary-a-kavomlynky/kat120.html",
+  "name": "Kávovary a kávomlýnky"
+ },
+ "122": {
+  "id": 122,
+  "url": "https://www.elektrodvorak.cz/kuchynske-roboty/kat122.html",
+  "name": "Kuchyňské roboty"
+ },
+ "666": {
+  "id": 666,
+  "url": "https://www.elektrodvorak.cz/mixery-a-sekacky/kat666.html",
+  "name": "Mixéry a sekáčky"
+ },
+ "130": {
+  "id": 130,
+  "url": "https://www.elektrodvorak.cz/rucni-slehace/kat130.html",
+  "name": "Ruční šlehače"
+ },
+ "121": {
+  "id": 121,
+  "url": "https://www.elektrodvorak.cz/krajece-potravin/kat121.html",
+  "name": "Kráječe potravin"
+ },
+ "134": {
+  "id": 134,
+  "url": "https://www.elektrodvorak.cz/susicky-potravin/kat134.html",
+  "name": "Sušičky potravin"
+ },
+ "112": {
+  "id": 112,
+  "url": "https://www.elektrodvorak.cz/odstavnovace/kat112.html",
+  "name": "Odšťavňovače"
+ },
+ "138": {
+  "id": 138,
+  "url": "https://www.elektrodvorak.cz/vyrobniky-sody/kat138.html",
+  "name": "Výrobníky sody"
+ },
+ "675": {
+  "id": 675,
+  "url": "https://www.elektrodvorak.cz/vyrobniky-ledu/kat675.html",
+  "name": "Výrobníky ledu"
+ },
+ "136": {
+  "id": 136,
+  "url": "https://www.elektrodvorak.cz/kuchynske-vahy/kat136.html",
+  "name": "Kuchyňské váhy"
+ },
+ "125": {
+  "id": 125,
+  "url": "https://www.elektrodvorak.cz/mlynky-na-maso/kat125.html",
+  "name": "Mlýnky na maso"
+ },
+ "126": {
+  "id": 126,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-ke-kuchynskym-spotrebicum/kat126.html",
+  "name": "Příslušenství ke kuchyňským spotřebičům"
+ },
+ "40": {
+  "id": 40,
+  "url": "https://www.elektrodvorak.cz/vareni/kat40.html",
+  "name": "Vaření"
+ },
+ "622": {
+  "id": 622,
+  "url": "https://www.elektrodvorak.cz/mini-trouby/kat622.html",
+  "name": "Mini trouby"
+ },
+ "124": {
+  "id": 124,
+  "url": "https://www.elektrodvorak.cz/mikrovlnne-trouby/kat124.html",
+  "name": "Mikrovlnné trouby"
+ },
+ "131": {
+  "id": 131,
+  "url": "https://www.elektrodvorak.cz/rychlovarne-konvice/kat131.html",
+  "name": "Rychlovarné konvice"
+ },
+ "133": {
+  "id": 133,
+  "url": "https://www.elektrodvorak.cz/sendvicovace-a-topinkovace/kat133.html",
+  "name": "Sendvičovače a topinkovače"
+ },
+ "118": {
+  "id": 118,
+  "url": "https://www.elektrodvorak.cz/kontaktni-grily-a-remosky/kat118.html",
+  "name": "Kontaktní grily a remosky"
+ },
+ "119": {
+  "id": 119,
+  "url": "https://www.elektrodvorak.cz/zavarovaci-hrnce/kat119.html",
+  "name": "Zavařovací hrnce"
+ },
+ "603": {
+  "id": 603,
+  "url": "https://www.elektrodvorak.cz/multifunkcni-hrnce/kat603.html",
+  "name": "Multifunkční hrnce"
+ },
+ "113": {
+  "id": 113,
+  "url": "https://www.elektrodvorak.cz/pekarny-chleba/kat113.html",
+  "name": "Pekárny chleba"
+ },
+ "530": {
+  "id": 530,
+  "url": "https://www.elektrodvorak.cz/ryzovary/kat530.html",
+  "name": "Rýžovary"
+ },
+ "116": {
+  "id": 116,
+  "url": "https://www.elektrodvorak.cz/fritezy/kat116.html",
+  "name": "Fritézy"
+ },
+ "114": {
+  "id": 114,
+  "url": "https://www.elektrodvorak.cz/varice/kat114.html",
+  "name": "Vařiče"
+ },
+ "41": {
+  "id": 41,
+  "url": "https://www.elektrodvorak.cz/pece-o-telo/kat41.html",
+  "name": "Péče o tělo"
+ },
+ "115": {
+  "id": 115,
+  "url": "https://www.elektrodvorak.cz/feny/kat115.html",
+  "name": "Fény"
+ },
+ "117": {
+  "id": 117,
+  "url": "https://www.elektrodvorak.cz/kulmy/kat117.html",
+  "name": "Kulmy"
+ },
+ "147": {
+  "id": 147,
+  "url": "https://www.elektrodvorak.cz/zehlicky-na-vlasy/kat147.html",
+  "name": "Žehličky na vlasy"
+ },
+ "231": {
+  "id": 231,
+  "url": "https://www.elektrodvorak.cz/holici-strojky-epilatory/kat231.html",
+  "name": "Holicí strojky, epilátory"
+ },
+ "146": {
+  "id": 146,
+  "url": "https://www.elektrodvorak.cz/zastrihovace-vlasu-vousu/kat146.html",
+  "name": "Zastřihovače vlasů, vousů"
+ },
+ "148": {
+  "id": 148,
+  "url": "https://www.elektrodvorak.cz/zubni-kartacky/kat148.html",
+  "name": "Zubní kartáčky"
+ },
+ "556": {
+  "id": 556,
+  "url": "https://www.elektrodvorak.cz/ustni-sprchy/kat556.html",
+  "name": "Ústní sprchy"
+ },
+ "359": {
+  "id": 359,
+  "url": "https://www.elektrodvorak.cz/hodinky-naramky/kat359.html",
+  "name": "Hodinky, náramky"
+ },
+ "174": {
+  "id": 174,
+  "url": "https://www.elektrodvorak.cz/tlakomery-teplomery/kat174.html",
+  "name": "Tlakoměry, teploměry"
+ },
+ "137": {
+  "id": 137,
+  "url": "https://www.elektrodvorak.cz/vahy-osobni/kat137.html",
+  "name": "Váhy osobní"
+ },
+ "172": {
+  "id": 172,
+  "url": "https://www.elektrodvorak.cz/vyhrivaci-decky-boty/kat172.html",
+  "name": "Vyhřívací dečky, boty"
+ },
+ "536": {
+  "id": 536,
+  "url": "https://www.elektrodvorak.cz/pece-o-nohy/kat536.html",
+  "name": "Péče o nohy"
+ },
+ "534": {
+  "id": 534,
+  "url": "https://www.elektrodvorak.cz/infralampy/kat534.html",
+  "name": "Infralampy"
+ },
+ "42": {
+  "id": 42,
+  "url": "https://www.elektrodvorak.cz/vysavace/kat42.html",
+  "name": "Vysavače"
+ },
+ "139": {
+  "id": 139,
+  "url": "https://www.elektrodvorak.cz/podlahove-vysavace/kat139.html",
+  "name": "Podlahové vysavače"
+ },
+ "145": {
+  "id": 145,
+  "url": "https://www.elektrodvorak.cz/rucni-vysavace/kat145.html",
+  "name": "Ruční vysavače"
+ },
+ "143": {
+  "id": 143,
+  "url": "https://www.elektrodvorak.cz/roboticke-vysavace/kat143.html",
+  "name": "Robotické vysavače"
+ },
+ "253": {
+  "id": 253,
+  "url": "https://www.elektrodvorak.cz/prumyslove-vysavace-vysavace-popela/kat253.html",
+  "name": "Průmyslové vysavače"
+ },
+ "525": {
+  "id": 525,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-k-vysavacum/kat525.html",
+  "name": "Příslušenství k vysavačům"
+ },
+ "594": {
+  "id": 594,
+  "url": "https://www.elektrodvorak.cz/zehleni/kat594.html",
+  "name": "Žehlení"
+ },
+ "596": {
+  "id": 596,
+  "url": "https://www.elektrodvorak.cz/naparovaci-zehlicky/kat596.html",
+  "name": "Napařovací žehličky"
+ },
+ "597": {
+  "id": 597,
+  "url": "https://www.elektrodvorak.cz/suche-zehlicky/kat597.html",
+  "name": "Suché žehličky"
+ },
+ "595": {
+  "id": 595,
+  "url": "https://www.elektrodvorak.cz/zehlici-prkna/kat595.html",
+  "name": "Žehlicí prkna"
+ },
+ "43": {
+  "id": 43,
+  "url": "https://www.elektrodvorak.cz/potreby-do-kuchyne/kat43.html",
+  "name": "Potřeby do kuchyně"
+ },
+ "634": {
+  "id": 634,
+  "url": "https://www.elektrodvorak.cz/noze/kat634.html",
+  "name": "Nože"
+ },
+ "129": {
+  "id": 129,
+  "url": "https://www.elektrodvorak.cz/panve/kat129.html",
+  "name": "Pánve"
+ },
+ "623": {
+  "id": 623,
+  "url": "https://www.elektrodvorak.cz/hrnce/kat623.html",
+  "name": "Hrnce"
+ },
+ "624": {
+  "id": 624,
+  "url": "https://www.elektrodvorak.cz/tlakove-hrnce/kat624.html",
+  "name": "Tlakové hrnce"
+ },
+ "626": {
+  "id": 626,
+  "url": "https://www.elektrodvorak.cz/pekace/kat626.html",
+  "name": "Pekáče"
+ },
+ "629": {
+  "id": 629,
+  "url": "https://www.elektrodvorak.cz/formy-na-peceni/kat629.html",
+  "name": "Formy na pečení"
+ },
+ "90": {
+  "id": 90,
+  "url": "https://www.elektrodvorak.cz/nadobi-dozy-lahve/kat90.html",
+  "name": "Nádobí, dózy, láhve"
+ },
+ "613": {
+  "id": 613,
+  "url": "https://www.elektrodvorak.cz/jidlonosice/kat613.html",
+  "name": "Jídlonosiče"
+ },
+ "614": {
+  "id": 614,
+  "url": "https://www.elektrodvorak.cz/termosky/kat614.html",
+  "name": "Termosky"
+ },
+ "173": {
+  "id": 173,
+  "url": "https://www.elektrodvorak.cz/filtracni-konvice/kat173.html",
+  "name": "Filtrační konvice"
+ },
+ "416": {
+  "id": 416,
+  "url": "https://www.elektrodvorak.cz/cajove-konvice/kat416.html",
+  "name": "Čajové konvice"
+ },
+ "630": {
+  "id": 630,
+  "url": "https://www.elektrodvorak.cz/mlynky-na-koreni/kat630.html",
+  "name": "Mlýnky na koření"
+ },
+ "273": {
+  "id": 273,
+  "url": "https://www.elektrodvorak.cz/ostatni/kat273.html",
+  "name": "Ostatní"
+ },
+ "44": {
+  "id": 44,
+  "url": "https://www.elektrodvorak.cz/ostatni/kat44.html",
+  "name": "Ostatní"
+ },
+ "223": {
+  "id": 223,
+  "url": "https://www.elektrodvorak.cz/sici-stroje/kat223.html",
+  "name": "Šicí stroje"
+ },
+ "579": {
+  "id": 579,
+  "url": "https://www.elektrodvorak.cz/ventilatory/kat579.html",
+  "name": "Ventilátory"
+ },
+ "330": {
+  "id": 330,
+  "url": "https://www.elektrodvorak.cz/klimatizace/kat330.html",
+  "name": "Klimatizace"
+ },
+ "128": {
+  "id": 128,
+  "url": "https://www.elektrodvorak.cz/topidla/kat128.html",
+  "name": "Topidla"
+ },
+ "573": {
+  "id": 573,
+  "url": "https://www.elektrodvorak.cz/susaky-na-pradlo/kat573.html",
+  "name": "Sušáky na prádlo"
+ },
+ "620": {
+  "id": 620,
+  "url": "https://www.elektrodvorak.cz/odvlhcovace-vzduchu/kat620.html",
+  "name": "Odvlhčovače vzduchu"
+ },
+ "171": {
+  "id": 171,
+  "url": "https://www.elektrodvorak.cz/cisticky-a-zvlhcovace-vzduchu/kat171.html",
+  "name": "Čističky a zvlhčovače vzduchu"
+ },
+ "135": {
+  "id": 135,
+  "url": "https://www.elektrodvorak.cz/vakuovaci-a-laminovaci-pristroje/kat135.html",
+  "name": "Vakuovací a laminovací přístroje"
+ },
+ "127": {
+  "id": 127,
+  "url": "https://www.elektrodvorak.cz/odstranovace-zmolku/kat127.html",
+  "name": "Odstraňovače žmolků"
+ },
+ "111": {
+  "id": 111,
+  "url": "https://www.elektrodvorak.cz/cistic-obuvi-parni-cistice/kat111.html",
+  "name": "Čističe oken, parní čističe"
+ },
+ "49": {
+  "id": 49,
+  "url": "https://www.elektrodvorak.cz/notebooky/kat49.html",
+  "name": "Notebooky"
+ },
+ "299": {
+  "id": 299,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-k-notebokum/kat299.html",
+  "name": "Příslušenství k notebokům"
+ },
+ "51": {
+  "id": 51,
+  "url": "https://www.elektrodvorak.cz/tablety/kat51.html",
+  "name": "Tablety"
+ },
+ "235": {
+  "id": 235,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-pro-tablety/kat235.html",
+  "name": "Příslušenství pro tablety"
+ },
+ "53": {
+  "id": 53,
+  "url": "https://www.elektrodvorak.cz/monitory/kat53.html",
+  "name": "Monitory"
+ },
+ "246": {
+  "id": 246,
+  "url": "https://www.elektrodvorak.cz/led-lcd-monitory/kat246.html",
+  "name": "LED/LCD monitory"
+ },
+ "325": {
+  "id": 325,
+  "url": "https://www.elektrodvorak.cz/projektory-a-jine/kat325.html",
+  "name": "Projektory a jiné"
+ },
+ "57": {
+  "id": 57,
+  "url": "https://www.elektrodvorak.cz/it-prislusenstvi/kat57.html",
+  "name": "IT příslušenství"
+ },
+ "297": {
+  "id": 297,
+  "url": "https://www.elektrodvorak.cz/sluchatka/kat297.html",
+  "name": "Sluchátka"
+ },
+ "671": {
+  "id": 671,
+  "url": "https://www.elektrodvorak.cz/mikrofony/kat671.html",
+  "name": "Mikrofony"
+ },
+ "543": {
+  "id": 543,
+  "url": "https://www.elektrodvorak.cz/webkamery/kat543.html",
+  "name": "Webkamery"
+ },
+ "237": {
+  "id": 237,
+  "url": "https://www.elektrodvorak.cz/pametova-media-hard-disky-pametove-karty/kat237.html",
+  "name": "Paměťová média"
+ },
+ "271": {
+  "id": 271,
+  "url": "https://www.elektrodvorak.cz/klavesnice-mysi-a-jine/kat271.html",
+  "name": "Klávesnice, myši a jiné"
+ },
+ "54": {
+  "id": 54,
+  "url": "https://www.elektrodvorak.cz/herni-konzole/kat54.html",
+  "name": "Herní konzole"
+ },
+ "667": {
+  "id": 667,
+  "url": "https://www.elektrodvorak.cz/herni-prislusenstvi/kat667.html",
+  "name": "Herní příslušenství"
+ },
+ "52": {
+  "id": 52,
+  "url": "https://www.elektrodvorak.cz/tiskarny/kat52.html",
+  "name": "Tiskárny"
+ },
+ "244": {
+  "id": 244,
+  "url": "https://www.elektrodvorak.cz/multifunkcni-inkoustove-tiskarny/kat244.html",
+  "name": "Inkoustové multifunkční"
+ },
+ "309": {
+  "id": 309,
+  "url": "https://www.elektrodvorak.cz/inkoustove-tiskarny/kat309.html",
+  "name": "Inkoustové tiskárny"
+ },
+ "245": {
+  "id": 245,
+  "url": "https://www.elektrodvorak.cz/laserove-multifunkcni-tiskarny/kat245.html",
+  "name": "Laserové multifunkční"
+ },
+ "255": {
+  "id": 255,
+  "url": "https://www.elektrodvorak.cz/laserove-tiskarny/kat255.html",
+  "name": "Laserové tiskárny"
+ },
+ "310": {
+  "id": 310,
+  "url": "https://www.elektrodvorak.cz/kopirky-plottery/kat310.html",
+  "name": "Kopírky/Plottery"
+ },
+ "279": {
+  "id": 279,
+  "url": "https://www.elektrodvorak.cz/skenery-pokladni-tiskarny/kat279.html",
+  "name": "Skenery/Pokladní tiskárny"
+ },
+ "321": {
+  "id": 321,
+  "url": "https://www.elektrodvorak.cz/cartridge-tonery/kat321.html",
+  "name": "Cartridge/Tonery"
+ },
+ "572": {
+  "id": 572,
+  "url": "https://www.elektrodvorak.cz/kancelarske-potreby/kat572.html",
+  "name": "Kancelářské potřeby"
+ },
+ "312": {
+  "id": 312,
+  "url": "https://www.elektrodvorak.cz/kalkulacky/kat312.html",
+  "name": "Kalkulačky"
+ },
+ "524": {
+  "id": 524,
+  "url": "https://www.elektrodvorak.cz/laminovacky/kat524.html",
+  "name": "Laminovačky"
+ },
+ "531": {
+  "id": 531,
+  "url": "https://www.elektrodvorak.cz/skartovacky/kat531.html",
+  "name": "Skartovačky"
+ },
+ "45": {
+  "id": 45,
+  "url": "https://www.elektrodvorak.cz/televize/kat45.html",
+  "name": "Televize"
+ },
+ "158": {
+  "id": 158,
+  "url": "https://www.elektrodvorak.cz/led-televize/kat158.html",
+  "name": "LED televize"
+ },
+ "161": {
+  "id": 161,
+  "url": "https://www.elektrodvorak.cz/set-top-boxy-satelity/kat161.html",
+  "name": "Set-top boxy, satelity"
+ },
+ "91": {
+  "id": 91,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-k-tv/kat91.html",
+  "name": "Přislušenství k TV"
+ },
+ "48": {
+  "id": 48,
+  "url": "https://www.elektrodvorak.cz/telefony/kat48.html",
+  "name": "Telefony"
+ },
+ "230": {
+  "id": 230,
+  "url": "https://www.elektrodvorak.cz/mobilni-telefony/kat230.html",
+  "name": "Mobilní telefony"
+ },
+ "319": {
+  "id": 319,
+  "url": "https://www.elektrodvorak.cz/gsm-telefony/kat319.html",
+  "name": "GSM Telefony"
+ },
+ "295": {
+  "id": 295,
+  "url": "https://www.elektrodvorak.cz/pevne-telefony-faxy/kat295.html",
+  "name": "Pevné telefony/Faxy"
+ },
+ "293": {
+  "id": 293,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-k-telefonum/kat293.html",
+  "name": "Příslušenství k telefonům"
+ },
+ "46": {
+  "id": 46,
+  "url": "https://www.elektrodvorak.cz/audio-video/kat46.html",
+  "name": "Audio, video"
+ },
+ "296": {
+  "id": 296,
+  "url": "https://www.elektrodvorak.cz/reproduktory/kat296.html",
+  "name": "Reproduktory"
+ },
+ "168": {
+  "id": 168,
+  "url": "https://www.elektrodvorak.cz/audiosystemy/kat168.html",
+  "name": "Audiosystémy"
+ },
+ "165": {
+  "id": 165,
+  "url": "https://www.elektrodvorak.cz/radioprijimace/kat165.html",
+  "name": "Radiopřijímače"
+ },
+ "169": {
+  "id": 169,
+  "url": "https://www.elektrodvorak.cz/radia-s-cd-mp3/kat169.html",
+  "name": "Rádia s CD/MP3"
+ },
+ "154": {
+  "id": 154,
+  "url": "https://www.elektrodvorak.cz/dvd-blue-ray-prehravace/kat154.html",
+  "name": "DVD/Blue-Ray přehrávače"
+ },
+ "164": {
+  "id": 164,
+  "url": "https://www.elektrodvorak.cz/retro-gramofony/kat164.html",
+  "name": "Retro, gramofony"
+ },
+ "167": {
+  "id": 167,
+  "url": "https://www.elektrodvorak.cz/radiobudiky/kat167.html",
+  "name": "Radiobudíky"
+ },
+ "93": {
+  "id": 93,
+  "url": "https://www.elektrodvorak.cz/autoradia/kat93.html",
+  "name": "Autorádia"
+ },
+ "166": {
+  "id": 166,
+  "url": "https://www.elektrodvorak.cz/meteostanice/kat166.html",
+  "name": "Meteostanice"
+ },
+ "328": {
+  "id": 328,
+  "url": "https://www.elektrodvorak.cz/vysilacky/kat328.html",
+  "name": "Vysílačky"
+ },
+ "56": {
+  "id": 56,
+  "url": "https://www.elektrodvorak.cz/kamery/kat56.html",
+  "name": "Kamery"
+ },
+ "208": {
+  "id": 208,
+  "url": "https://www.elektrodvorak.cz/videokamery/kat208.html",
+  "name": "Videokamery"
+ },
+ "92": {
+  "id": 92,
+  "url": "https://www.elektrodvorak.cz/autokamery/kat92.html",
+  "name": "Autokamery"
+ },
+ "238": {
+  "id": 238,
+  "url": "https://www.elektrodvorak.cz/outdoorove-kamery/kat238.html",
+  "name": "Outdoorové kamery"
+ },
+ "275": {
+  "id": 275,
+  "url": "https://www.elektrodvorak.cz/navigace/kat275.html",
+  "name": "Navigace"
+ },
+ "314": {
+  "id": 314,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-pro-kamery/kat314.html",
+  "name": "Příslušenství pro kamery"
+ },
+ "349": {
+  "id": 349,
+  "url": "https://www.elektrodvorak.cz/osvetleni/kat349.html",
+  "name": "Osvětlení"
+ },
+ "670": {
+  "id": 670,
+  "url": "https://www.elektrodvorak.cz/reflektory/kat670.html",
+  "name": "Reflektory"
+ },
+ "633": {
+  "id": 633,
+  "url": "https://www.elektrodvorak.cz/lampicky-stolni/kat633.html",
+  "name": "Lampičky stolní"
+ },
+ "480": {
+  "id": 480,
+  "url": "https://www.elektrodvorak.cz/baterky-celovky-a-svitilny/kat480.html",
+  "name": "Baterky, čelovky a svítilny"
+ },
+ "651": {
+  "id": 651,
+  "url": "https://www.elektrodvorak.cz/zahradni-osvetleni/kat651.html",
+  "name": "Zahradní osvětlení"
+ },
+ "440": {
+  "id": 440,
+  "url": "https://www.elektrodvorak.cz/vanocni-osvetleni/kat440.html",
+  "name": "Vánoční osvětlení"
+ },
+ "668": {
+  "id": 668,
+  "url": "https://www.elektrodvorak.cz/halloween/kat668.html",
+  "name": "Halloween"
+ },
+ "439": {
+  "id": 439,
+  "url": "https://www.elektrodvorak.cz/zarovky/kat439.html",
+  "name": "Žárovky"
+ },
+ "388": {
+  "id": 388,
+  "url": "https://www.elektrodvorak.cz/elektro-prislusenstvi/kat388.html",
+  "name": "Elektro-příslušenství"
+ },
+ "430": {
+  "id": 430,
+  "url": "https://www.elektrodvorak.cz/baterie/kat430.html",
+  "name": "Baterie"
+ },
+ "611": {
+  "id": 611,
+  "url": "https://www.elektrodvorak.cz/nabijecky/kat611.html",
+  "name": "Nabíječky"
+ },
+ "533": {
+  "id": 533,
+  "url": "https://www.elektrodvorak.cz/powerbanky/kat533.html",
+  "name": "Powerbanky"
+ },
+ "610": {
+  "id": 610,
+  "url": "https://www.elektrodvorak.cz/prodluzovaci-kabely/kat610.html",
+  "name": "Prodlužovací kabely"
+ },
+ "553": {
+  "id": 553,
+  "url": "https://www.elektrodvorak.cz/alarmy-senzory/kat553.html",
+  "name": "Alarmy, senzory"
+ },
+ "500": {
+  "id": 500,
+  "url": "https://www.elektrodvorak.cz/zvonky/kat500.html",
+  "name": "Zvonky"
+ },
+ "422": {
+  "id": 422,
+  "url": "https://www.elektrodvorak.cz/elektroinstalacni-material/kat422.html",
+  "name": "Elektroinstalační materiál"
+ },
+ "680": {
+  "id": 680,
+  "url": "https://www.elektrodvorak.cz/stavebni-materialy/kat680.html",
+  "name": "Stavební materiály"
+ },
+ "65": {
+  "id": 65,
+  "url": "https://www.elektrodvorak.cz/elektricke-naradi/kat65.html",
+  "name": "Elektrické nářadí"
+ },
+ "608": {
+  "id": 608,
+  "url": "https://www.elektrodvorak.cz/elektroinstalacni-material/kat608.html",
+  "name": "Elektroinstalační materiál"
+ },
+ "79": {
+  "id": 79,
+  "url": "https://www.elektrodvorak.cz/aku-naradi/kat79.html",
+  "name": "Aku nářadí"
+ },
+ "78": {
+  "id": 78,
+  "url": "https://www.elektrodvorak.cz/vrtacky-sroubovaky-michadla/kat78.html",
+  "name": "Vrtačky, šroubováky, míchadla"
+ },
+ "456": {
+  "id": 456,
+  "url": "https://www.elektrodvorak.cz/vrtaci-a-bouraci-kladiva/kat456.html",
+  "name": "Vrtací a bourací kladiva"
+ },
+ "82": {
+  "id": 82,
+  "url": "https://www.elektrodvorak.cz/brusky/kat82.html",
+  "name": "Brusky"
+ },
+ "81": {
+  "id": 81,
+  "url": "https://www.elektrodvorak.cz/pily-rezacky/kat81.html",
+  "name": "Pily, řezačky"
+ },
+ "469": {
+  "id": 469,
+  "url": "https://www.elektrodvorak.cz/hobliky-frezky/kat469.html",
+  "name": "Hoblíky, frézky"
+ },
+ "477": {
+  "id": 477,
+  "url": "https://www.elektrodvorak.cz/svareci-technika/kat477.html",
+  "name": "Svářecí technika"
+ },
+ "84": {
+  "id": 84,
+  "url": "https://www.elektrodvorak.cz/kompresory/kat84.html",
+  "name": "Kompresory"
+ },
+ "577": {
+  "id": 577,
+  "url": "https://www.elektrodvorak.cz/elektrocentraly/kat577.html",
+  "name": "Elektrocentrály"
+ },
+ "476": {
+  "id": 476,
+  "url": "https://www.elektrodvorak.cz/ampermetry-a-voltmetry-multimetry/kat476.html",
+  "name": "Ampérmetry a voltmetry multimetry"
+ },
+ "176": {
+  "id": 176,
+  "url": "https://www.elektrodvorak.cz/ostatni-naradi/kat176.html",
+  "name": "Ostatní nářadí"
+ },
+ "432": {
+  "id": 432,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi/kat432.html",
+  "name": "Příslušenství"
+ },
+ "676": {
+  "id": 676,
+  "url": "https://www.elektrodvorak.cz/outdoor-volny-cas/kat676.html",
+  "name": "Outdoor / volný čas"
+ },
+ "672": {
+  "id": 672,
+  "url": "https://www.elektrodvorak.cz/zbrane-pro-rekreacni-a-sportovni-ucely/kat672.html",
+  "name": "Zbraně pro rekreační a sportovní účely"
+ },
+ "381": {
+  "id": 381,
+  "url": "https://www.elektrodvorak.cz/sanita-a-koupelny/kat381.html",
+  "name": "Sanita a koupelny"
+ },
+ "431": {
+  "id": 431,
+  "url": "https://www.elektrodvorak.cz/baterie-vodovodni/kat431.html",
+  "name": "Baterie vodovodní"
+ },
+ "654": {
+  "id": 654,
+  "url": "https://www.elektrodvorak.cz/sifony/kat654.html",
+  "name": "Sifony"
+ },
+ "655": {
+  "id": 655,
+  "url": "https://www.elektrodvorak.cz/podlahove-vpusti/kat655.html",
+  "name": "Podlahové vpusti"
+ },
+ "657": {
+  "id": 657,
+  "url": "https://www.elektrodvorak.cz/flexi-pripojeni/kat657.html",
+  "name": "Flexi připojení"
+ },
+ "656": {
+  "id": 656,
+  "url": "https://www.elektrodvorak.cz/ventily/kat656.html",
+  "name": "Ventily"
+ },
+ "590": {
+  "id": 590,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-toalety/kat590.html",
+  "name": "Příslušenství toalety"
+ },
+ "180": {
+  "id": 180,
+  "url": "https://www.elektrodvorak.cz/ochranne-pomucky/kat180.html",
+  "name": "Ochranné pomůcky"
+ },
+ "479": {
+  "id": 479,
+  "url": "https://www.elektrodvorak.cz/pracovni-rukavice/kat479.html",
+  "name": "Pracovní rukavice"
+ },
+ "66": {
+  "id": 66,
+  "url": "https://www.elektrodvorak.cz/rucni-naradi/kat66.html",
+  "name": "Ruční nářadí"
+ },
+ "619": {
+  "id": 619,
+  "url": "https://www.elektrodvorak.cz/sroubovaky/kat619.html",
+  "name": "Šroubováky"
+ },
+ "542": {
+  "id": 542,
+  "url": "https://www.elektrodvorak.cz/spojovaci-nastroje-a-material/kat542.html",
+  "name": "Spojovací nástroje a materiál"
+ },
+ "617": {
+  "id": 617,
+  "url": "https://www.elektrodvorak.cz/nuzky/kat617.html",
+  "name": "Nůžky"
+ },
+ "493": {
+  "id": 493,
+  "url": "https://www.elektrodvorak.cz/ostatni-naradi/kat493.html",
+  "name": "Ostatní nářadí"
+ },
+ "486": {
+  "id": 486,
+  "url": "https://www.elektrodvorak.cz/sady-naradi/kat486.html",
+  "name": "Sady nářadí"
+ },
+ "481": {
+  "id": 481,
+  "url": "https://www.elektrodvorak.cz/gola-sady-gola-klice-racny/kat481.html",
+  "name": "Gola sady, gola klíče, ráčny"
+ },
+ "644": {
+  "id": 644,
+  "url": "https://www.elektrodvorak.cz/rezne-a-brusne-nastroje/kat644.html",
+  "name": "Řezné a brusné nástroje"
+ },
+ "482": {
+  "id": 482,
+  "url": "https://www.elektrodvorak.cz/kladiva-palice/kat482.html",
+  "name": "Kladiva, palice"
+ },
+ "484": {
+  "id": 484,
+  "url": "https://www.elektrodvorak.cz/pily-a-pilky/kat484.html",
+  "name": "Pily a pilky"
+ },
+ "485": {
+  "id": 485,
+  "url": "https://www.elektrodvorak.cz/kufry-boxy/kat485.html",
+  "name": "Kufry, boxy"
+ },
+ "434": {
+  "id": 434,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi/kat434.html",
+  "name": "Příslušenství"
+ },
+ "441": {
+  "id": 441,
+  "url": "https://www.elektrodvorak.cz/merici-technika/kat441.html",
+  "name": "Měřící technika"
+ },
+ "266": {
+  "id": 266,
+  "url": "https://www.elektrodvorak.cz/silikony-lepidla-montazni-peny-chem-kotvy/kat266.html",
+  "name": "Silikony, lepidla, pěny"
+ },
+ "259": {
+  "id": 259,
+  "url": "https://www.elektrodvorak.cz/dilenske-stoly/kat259.html",
+  "name": "Dílenské stoly"
+ },
+ "181": {
+  "id": 181,
+  "url": "https://www.elektrodvorak.cz/manipulacni-technika/kat181.html",
+  "name": "Manipulační technika"
+ },
+ "88": {
+  "id": 88,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-ke-strojum/kat88.html",
+  "name": "Příslušenství ke strojům"
+ },
+ "447": {
+  "id": 447,
+  "url": "https://www.elektrodvorak.cz/udrzba-domacnosti/kat447.html",
+  "name": "Údržba domácnosti"
+ },
+ "492": {
+  "id": 492,
+  "url": "https://www.elektrodvorak.cz/uklidove-pomucky/kat492.html",
+  "name": "Úklidové pomůcky"
+ },
+ "538": {
+  "id": 538,
+  "url": "https://www.elektrodvorak.cz/ulozne-boxy-kose/kat538.html",
+  "name": "Úložné boxy, koše"
+ },
+ "627": {
+  "id": 627,
+  "url": "https://www.elektrodvorak.cz/odpadkove-kose/kat627.html",
+  "name": "Odpadkové koše"
+ },
+ "578": {
+  "id": 578,
+  "url": "https://www.elektrodvorak.cz/lapace-a-hubice-hmyzu/kat578.html",
+  "name": "Lapače a hubiče hmyzu"
+ },
+ "448": {
+  "id": 448,
+  "url": "https://www.elektrodvorak.cz/pasti-a-odpuzovace-hlodavcu/kat448.html",
+  "name": "Pasti a odpuzovače hlodavců"
+ },
+ "64": {
+  "id": 64,
+  "url": "https://www.elektrodvorak.cz/kotle-kamna-krby/kat64.html",
+  "name": "Kotle, kamna, krby"
+ },
+ "267": {
+  "id": 267,
+  "url": "https://www.elektrodvorak.cz/kamna-krby/kat267.html",
+  "name": "Kamna, krby"
+ },
+ "210": {
+  "id": 210,
+  "url": "https://www.elektrodvorak.cz/paraky-kotle-na-brambory-brutary/kat210.html",
+  "name": "Pařáky, kotle, brutary"
+ },
+ "669": {
+  "id": 669,
+  "url": "https://www.elektrodvorak.cz/brikety-palivove/kat669.html",
+  "name": "Brikety palivové"
+ },
+ "560": {
+  "id": 560,
+  "url": "https://www.elektrodvorak.cz/vzduchotechnika/kat560.html",
+  "name": "Vzduchotechnika"
+ },
+ "435": {
+  "id": 435,
+  "url": "https://www.elektrodvorak.cz/ostatni/kat435.html",
+  "name": "Ostatní"
+ },
+ "683": {
+  "id": 683,
+  "url": "https://www.elektrodvorak.cz/barvy-a-spreje/kat683.html",
+  "name": "Barvy a Spreje"
+ },
+ "652": {
+  "id": 652,
+  "url": "https://www.elektrodvorak.cz/stojanky-na-stromecek/kat652.html",
+  "name": "Stojánky na stromeček"
+ },
+ "605": {
+  "id": 605,
+  "url": "https://www.elektrodvorak.cz/pokladny-kasy/kat605.html",
+  "name": "Pokladny, kasy"
+ },
+ "635": {
+  "id": 635,
+  "url": "https://www.elektrodvorak.cz/termostaty/kat635.html",
+  "name": "Termostaty"
+ },
+ "609": {
+  "id": 609,
+  "url": "https://www.elektrodvorak.cz/zamky-vlozky/kat609.html",
+  "name": "zámky, vložky"
+ },
+ "607": {
+  "id": 607,
+  "url": "https://www.elektrodvorak.cz/budiky/kat607.html",
+  "name": "Budíky"
+ },
+ "589": {
+  "id": 589,
+  "url": "https://www.elektrodvorak.cz/nastenne-hodiny/kat589.html",
+  "name": "Nástěnné hodiny"
+ },
+ "584": {
+  "id": 584,
+  "url": "https://www.elektrodvorak.cz/dekorace-do-bytu/kat584.html",
+  "name": "Dekorace do bytu"
+ },
+ "664": {
+  "id": 664,
+  "url": "https://www.elektrodvorak.cz/domovni-cisla/kat664.html",
+  "name": "Domovní čísla"
+ },
+ "558": {
+  "id": 558,
+  "url": "https://www.elektrodvorak.cz/nabytkove-uchytky/kat558.html",
+  "name": "Nábytkové úchytky"
+ },
+ "557": {
+  "id": 557,
+  "url": "https://www.elektrodvorak.cz/kliky-vlozky-do-dveri/kat557.html",
+  "name": "Kliky, vložky do dveří"
+ },
+ "551": {
+  "id": 551,
+  "url": "https://www.elektrodvorak.cz/mereni-teploty/kat551.html",
+  "name": "Měření teploty"
+ },
+ "528": {
+  "id": 528,
+  "url": "https://www.elektrodvorak.cz/postovni-schranky/kat528.html",
+  "name": "Poštovní schránky"
+ },
+ "501": {
+  "id": 501,
+  "url": "https://www.elektrodvorak.cz/plachty/kat501.html",
+  "name": "Plachty"
+ },
+ "438": {
+  "id": 438,
+  "url": "https://www.elektrodvorak.cz/popelnice/kat438.html",
+  "name": "Popelnice"
+ },
+ "449": {
+  "id": 449,
+  "url": "https://www.elektrodvorak.cz/sudy-barely/kat449.html",
+  "name": "Sudy, barely"
+ },
+ "70": {
+  "id": 70,
+  "url": "https://www.elektrodvorak.cz/ctyrkolky/kat70.html",
+  "name": "Čtyřkolky"
+ },
+ "248": {
+  "id": 248,
+  "url": "https://www.elektrodvorak.cz/ctyrkolky-pro-dospele/kat248.html",
+  "name": "Čtyřkolky pro dospělé"
+ },
+ "281": {
+  "id": 281,
+  "url": "https://www.elektrodvorak.cz/detske-ctyrkolky/kat281.html",
+  "name": "Dětské čtyřkolky"
+ },
+ "674": {
+  "id": 674,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-ke-ctyrkolkam/kat674.html",
+  "name": "Příslušenství ke čtyřkolkám"
+ },
+ "71": {
+  "id": 71,
+  "url": "https://www.elektrodvorak.cz/skutry-a-motocykly/kat71.html",
+  "name": "Skútry a motocykly"
+ },
+ "256": {
+  "id": 256,
+  "url": "https://www.elektrodvorak.cz/skutry/kat256.html",
+  "name": "Skútry"
+ },
+ "681": {
+  "id": 681,
+  "url": "https://www.elektrodvorak.cz/motocykly/kat681.html",
+  "name": "Motocykly"
+ },
+ "648": {
+  "id": 648,
+  "url": "https://www.elektrodvorak.cz/elektricke-voziky-a-skutry-selvo/kat648.html",
+  "name": "Elektrické vozíky a skútry SELVO"
+ },
+ "87": {
+  "id": 87,
+  "url": "https://www.elektrodvorak.cz/jizdni-prostredky/kat87.html",
+  "name": "Jízdní prostředky"
+ },
+ "276": {
+  "id": 276,
+  "url": "https://www.elektrodvorak.cz/kolobezky/kat276.html",
+  "name": "Koloběžky"
+ },
+ "72": {
+  "id": 72,
+  "url": "https://www.elektrodvorak.cz/moto-prislusenstvi/kat72.html",
+  "name": "Moto příslušenství"
+ },
+ "517": {
+  "id": 517,
+  "url": "https://www.elektrodvorak.cz/alkotestery/kat517.html",
+  "name": "Alkotestery"
+ },
+ "240": {
+  "id": 240,
+  "url": "https://www.elektrodvorak.cz/helmy/kat240.html",
+  "name": "Helmy"
+ },
+ "73": {
+  "id": 73,
+  "url": "https://www.elektrodvorak.cz/nahradni-dily/kat73.html",
+  "name": "Náhradní díly"
+ },
+ "306": {
+  "id": 306,
+  "url": "https://www.elektrodvorak.cz/skutry-nahradni-dily/kat306.html",
+  "name": "Skútry - náhradní díly"
+ },
+ "304": {
+  "id": 304,
+  "url": "https://www.elektrodvorak.cz/ctyrkolky-nahradni-dily/kat304.html",
+  "name": "Čtyřkolky - náhradní díly"
+ },
+ "305": {
+  "id": 305,
+  "url": "https://www.elektrodvorak.cz/zahradni-technika-dily/kat305.html",
+  "name": "Zahradní technika - díly"
+ },
+ "326": {
+  "id": 326,
+  "url": "https://www.elektrodvorak.cz/husqvarna-nahradni-dily/kat326.html",
+  "name": "Husqvarna - náhradní díly"
+ },
+ "303": {
+  "id": 303,
+  "url": "https://www.elektrodvorak.cz/ostatni-nahradni-dily/kat303.html",
+  "name": "Ostatní náhradní díly"
+ },
+ "59": {
+  "id": 59,
+  "url": "https://www.elektrodvorak.cz/traktory-sekacky/kat59.html",
+  "name": "Traktory, sekačky"
+ },
+ "74": {
+  "id": 74,
+  "url": "https://www.elektrodvorak.cz/zahradni-traktory/kat74.html",
+  "name": "Zahradní traktory"
+ },
+ "224": {
+  "id": 224,
+  "url": "https://www.elektrodvorak.cz/vari-system/kat224.html",
+  "name": "Vari systém"
+ },
+ "203": {
+  "id": 203,
+  "url": "https://www.elektrodvorak.cz/bubnove-a-listove-sekacky/kat203.html",
+  "name": "Bubnovky a lištovky"
+ },
+ "76": {
+  "id": 76,
+  "url": "https://www.elektrodvorak.cz/benzinove-sekacky/kat76.html",
+  "name": "Benzínové sekačky"
+ },
+ "75": {
+  "id": 75,
+  "url": "https://www.elektrodvorak.cz/elektricke-sekacky/kat75.html",
+  "name": "Elektrické sekačky"
+ },
+ "89": {
+  "id": 89,
+  "url": "https://www.elektrodvorak.cz/aku-sekacky/kat89.html",
+  "name": "Aku sekačky"
+ },
+ "77": {
+  "id": 77,
+  "url": "https://www.elektrodvorak.cz/provzdusnovace-kyprice/kat77.html",
+  "name": "Provzdušňovače, kypřiče"
+ },
+ "591": {
+  "id": 591,
+  "url": "https://www.elektrodvorak.cz/vyzinace/kat591.html",
+  "name": "Vyžínače"
+ },
+ "199": {
+  "id": 199,
+  "url": "https://www.elektrodvorak.cz/krovinorezy/kat199.html",
+  "name": "Křovinořezy"
+ },
+ "505": {
+  "id": 505,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-k-sekackam-a-krovinorezum/kat505.html",
+  "name": "Příslušenství k sekačkám a křovinořezům"
+ },
+ "580": {
+  "id": 580,
+  "url": "https://www.elektrodvorak.cz/zahradnicke-potreby/kat580.html",
+  "name": "Zahradnické potřeby"
+ },
+ "554": {
+  "id": 554,
+  "url": "https://www.elektrodvorak.cz/kompostery/kat554.html",
+  "name": "Kompostéry"
+ },
+ "600": {
+  "id": 600,
+  "url": "https://www.elektrodvorak.cz/zahradni-nacini/kat600.html",
+  "name": "Zahradní náčiní"
+ },
+ "601": {
+  "id": 601,
+  "url": "https://www.elektrodvorak.cz/plachty-a-textilie/kat601.html",
+  "name": "Plachty a textilie"
+ },
+ "583": {
+  "id": 583,
+  "url": "https://www.elektrodvorak.cz/kvetinace/kat583.html",
+  "name": "Květináče"
+ },
+ "639": {
+  "id": 639,
+  "url": "https://www.elektrodvorak.cz/pece-o-rostliny-a-pestovani-rostlin/kat639.html",
+  "name": "Péče o rostliny a pěstování rostlin"
+ },
+ "516": {
+  "id": 516,
+  "url": "https://www.elektrodvorak.cz/substraty/kat516.html",
+  "name": "Substráty"
+ },
+ "640": {
+  "id": 640,
+  "url": "https://www.elektrodvorak.cz/hnojiva/kat640.html",
+  "name": "Hnojiva"
+ },
+ "641": {
+  "id": 641,
+  "url": "https://www.elektrodvorak.cz/travni-smesy/kat641.html",
+  "name": "Travní směsy"
+ },
+ "642": {
+  "id": 642,
+  "url": "https://www.elektrodvorak.cz/prostredky-proti-skudcum/kat642.html",
+  "name": "Prostředky proti škůdcům"
+ },
+ "564": {
+  "id": 564,
+  "url": "https://www.elektrodvorak.cz/zahradni-naradi/kat564.html",
+  "name": "Zahradní nářadí"
+ },
+ "567": {
+  "id": 567,
+  "url": "https://www.elektrodvorak.cz/ryce/kat567.html",
+  "name": "Rýče"
+ },
+ "436": {
+  "id": 436,
+  "url": "https://www.elektrodvorak.cz/hrabe-lopaty/kat436.html",
+  "name": "Hrábě, lopaty"
+ },
+ "541": {
+  "id": 541,
+  "url": "https://www.elektrodvorak.cz/kultivatory/kat541.html",
+  "name": "Kultivátory"
+ },
+ "483": {
+  "id": 483,
+  "url": "https://www.elektrodvorak.cz/sekery/kat483.html",
+  "name": "Sekery"
+ },
+ "650": {
+  "id": 650,
+  "url": "https://www.elektrodvorak.cz/krumpace/kat650.html",
+  "name": "Krumpáče"
+ },
+ "437": {
+  "id": 437,
+  "url": "https://www.elektrodvorak.cz/nuzky-na-vetve/kat437.html",
+  "name": "Nůžky na větve"
+ },
+ "566": {
+  "id": 566,
+  "url": "https://www.elektrodvorak.cz/postrikovace/kat566.html",
+  "name": "Postřikovače"
+ },
+ "649": {
+  "id": 649,
+  "url": "https://www.elektrodvorak.cz/stavebni-a-zahradni-kolecka/kat649.html",
+  "name": "Stavební a zahradní kolečka"
+ },
+ "355": {
+  "id": 355,
+  "url": "https://www.elektrodvorak.cz/zahradni-grily/kat355.html",
+  "name": "Zahradní grily"
+ },
+ "662": {
+  "id": 662,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-ke-grilum/kat662.html",
+  "name": "Příslušenství ke grilům"
+ },
+ "354": {
+  "id": 354,
+  "url": "https://www.elektrodvorak.cz/skleniky-a-zahradni-domky/kat354.html",
+  "name": "Skleníky a zahradní domky"
+ },
+ "353": {
+  "id": 353,
+  "url": "https://www.elektrodvorak.cz/zahradni-jezirka/kat353.html",
+  "name": "Zahradní jezírka"
+ },
+ "356": {
+  "id": 356,
+  "url": "https://www.elektrodvorak.cz/jezirka/kat356.html",
+  "name": "Jezírka"
+ },
+ "357": {
+  "id": 357,
+  "url": "https://www.elektrodvorak.cz/cerpadla-do-jezirka/kat357.html",
+  "name": "Čerpadla do jezírka"
+ },
+ "351": {
+  "id": 351,
+  "url": "https://www.elektrodvorak.cz/tlakove-mycky-wapky/kat351.html",
+  "name": "Tlakové myčky, wapky"
+ },
+ "60": {
+  "id": 60,
+  "url": "https://www.elektrodvorak.cz/stipace-drtice/kat60.html",
+  "name": "Štípače, drtiče"
+ },
+ "198": {
+  "id": 198,
+  "url": "https://www.elektrodvorak.cz/stipacky-na-drevo/kat198.html",
+  "name": "Štípačky na dřevo"
+ },
+ "186": {
+  "id": 186,
+  "url": "https://www.elektrodvorak.cz/drtice-vetvi/kat186.html",
+  "name": "Drtiče větví"
+ },
+ "193": {
+  "id": 193,
+  "url": "https://www.elektrodvorak.cz/vysavace-listi-rosice-postrikovace/kat193.html",
+  "name": "Vysavače listí, rosiče"
+ },
+ "61": {
+  "id": 61,
+  "url": "https://www.elektrodvorak.cz/pily-plotostrihy/kat61.html",
+  "name": "Pily, plotostřihy"
+ },
+ "682": {
+  "id": 682,
+  "url": "https://www.elektrodvorak.cz/aku-pily-a-nuzky/kat682.html",
+  "name": "AKU pily a nůžky"
+ },
+ "445": {
+  "id": 445,
+  "url": "https://www.elektrodvorak.cz/rucni-pilky/kat445.html",
+  "name": "Ruční pilky"
+ },
+ "190": {
+  "id": 190,
+  "url": "https://www.elektrodvorak.cz/benzinove-pily/kat190.html",
+  "name": "Benzínové pily"
+ },
+ "189": {
+  "id": 189,
+  "url": "https://www.elektrodvorak.cz/elektricke-pily/kat189.html",
+  "name": "Elektrické pily"
+ },
+ "563": {
+  "id": 563,
+  "url": "https://www.elektrodvorak.cz/kolebkove-pily/kat563.html",
+  "name": "Kolébkové pily"
+ },
+ "191": {
+  "id": 191,
+  "url": "https://www.elektrodvorak.cz/plotostrihy/kat191.html",
+  "name": "Plotostřihy"
+ },
+ "274": {
+  "id": 274,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-k-pilam/kat274.html",
+  "name": "Příslušenství k pilám"
+ },
+ "63": {
+  "id": 63,
+  "url": "https://www.elektrodvorak.cz/vodarny-cerpadla/kat63.html",
+  "name": "Vodárny, čerpadla"
+ },
+ "522": {
+  "id": 522,
+  "url": "https://www.elektrodvorak.cz/cerpadla/kat522.html",
+  "name": "Čerpadla"
+ },
+ "184": {
+  "id": 184,
+  "url": "https://www.elektrodvorak.cz/vodarny-zahradni-cerpadla/kat184.html",
+  "name": "Vodárny, zahradní čerpadla"
+ },
+ "182": {
+  "id": 182,
+  "url": "https://www.elektrodvorak.cz/ponorna-cerpadla/kat182.html",
+  "name": "Ponorná čerpadla"
+ },
+ "183": {
+  "id": 183,
+  "url": "https://www.elektrodvorak.cz/kalova-cerpadla/kat183.html",
+  "name": "Kalová čerpadla"
+ },
+ "178": {
+  "id": 178,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi/kat178.html",
+  "name": "Příslušenství"
+ },
+ "62": {
+  "id": 62,
+  "url": "https://www.elektrodvorak.cz/snehove-frezy/kat62.html",
+  "name": "Sněhové frézy"
+ },
+ "188": {
+  "id": 188,
+  "url": "https://www.elektrodvorak.cz/benzinove-snehove-frezy/kat188.html",
+  "name": "Benzínové frézy"
+ },
+ "187": {
+  "id": 187,
+  "url": "https://www.elektrodvorak.cz/elektricke-snehove-frezy/kat187.html",
+  "name": "Elektrické frézy"
+ },
+ "254": {
+  "id": 254,
+  "url": "https://www.elektrodvorak.cz/rotacni-kartace-na-odklizeni-snehu/kat254.html",
+  "name": "Rotační kartáče"
+ },
+ "58": {
+  "id": 58,
+  "url": "https://www.elektrodvorak.cz/zahradni-nabytek/kat58.html",
+  "name": "Zahradní nábytek"
+ },
+ "201": {
+  "id": 201,
+  "url": "https://www.elektrodvorak.cz/zahradni-sety/kat201.html",
+  "name": "Zahradní sety"
+ },
+ "195": {
+  "id": 195,
+  "url": "https://www.elektrodvorak.cz/zahradni-houpacky-slunecniky/kat195.html",
+  "name": "Houpačky, slunečníky"
+ },
+ "202": {
+  "id": 202,
+  "url": "https://www.elektrodvorak.cz/lehatka-lavice-posezeni-na-zahrade/kat202.html",
+  "name": "Židle, lehátka, lavice"
+ },
+ "185": {
+  "id": 185,
+  "url": "https://www.elektrodvorak.cz/skleniky-zahradni-domky/kat185.html",
+  "name": "Skleníky, zahradní domky"
+ },
+ "360": {
+  "id": 360,
+  "url": "https://www.elektrodvorak.cz/trampoliny/kat360.html",
+  "name": "Trampolíny"
+ },
+ "211": {
+  "id": 211,
+  "url": "https://www.elektrodvorak.cz/bazeny-virivky/kat211.html",
+  "name": "Bazény, vířivky"
+ },
+ "262": {
+  "id": 262,
+  "url": "https://www.elektrodvorak.cz/bazeny/kat262.html",
+  "name": "Bazény"
+ },
+ "247": {
+  "id": 247,
+  "url": "https://www.elektrodvorak.cz/virivky-volne-stojici/kat247.html",
+  "name": "Vířivky volně stojící"
+ },
+ "269": {
+  "id": 269,
+  "url": "https://www.elektrodvorak.cz/bazenova-chemie/kat269.html",
+  "name": "Bazénová chemie"
+ },
+ "270": {
+  "id": 270,
+  "url": "https://www.elektrodvorak.cz/prislusenstvi-k-bazenum/kat270.html",
+  "name": "Příslušenství k bazénům"
+ },
+ "418": {
+  "id": 418,
+  "url": "https://www.elektrodvorak.cz/zabava-ve-vode/kat418.html",
+  "name": "Zábava ve vodě"
+ },
+ "444": {
+  "id": 444,
+  "url": "https://www.elektrodvorak.cz/zavlazovani/kat444.html",
+  "name": "Zavlažování"
+ },
+ "658": {
+  "id": 658,
+  "url": "https://www.elektrodvorak.cz/pistole-a-postrikovace/kat658.html",
+  "name": "Pistole a postřikovače"
+ },
+ "646": {
+  "id": 646,
+  "url": "https://www.elektrodvorak.cz/spojky-na-hadice/kat646.html",
+  "name": "Spojky na hadice"
+ },
+ "67": {
+  "id": 67,
+  "url": "https://www.elektrodvorak.cz/hracky-pro-kluky/kat67.html",
+  "name": "Pro kluky"
+ },
+ "548": {
+  "id": 548,
+  "url": "https://www.elektrodvorak.cz/pistole/kat548.html",
+  "name": "Pistole"
+ },
+ "345": {
+  "id": 345,
+  "url": "https://www.elektrodvorak.cz/rc-modely/kat345.html",
+  "name": "RC modely"
+ },
+ "86": {
+  "id": 86,
+  "url": "https://www.elektrodvorak.cz/auta-motorky-traktory/kat86.html",
+  "name": "Auta, Motorky, Traktory"
+ },
+ "283": {
+  "id": 283,
+  "url": "https://www.elektrodvorak.cz/letadla-vrtulniky/kat283.html",
+  "name": "Letadla, Vrtulníky"
+ },
+ "282": {
+  "id": 282,
+  "url": "https://www.elektrodvorak.cz/vlaky-a-lode/kat282.html",
+  "name": "Vlaky a Lodě"
+ },
+ "286": {
+  "id": 286,
+  "url": "https://www.elektrodvorak.cz/figurky/kat286.html",
+  "name": "Figurky"
+ },
+ "68": {
+  "id": 68,
+  "url": "https://www.elektrodvorak.cz/hracky-pro-holky/kat68.html",
+  "name": "Pro holky"
+ },
+ "289": {
+  "id": 289,
+  "url": "https://www.elektrodvorak.cz/panenky-a-miminka/kat289.html",
+  "name": "Panenky a miminka"
+ },
+ "362": {
+  "id": 362,
+  "url": "https://www.elektrodvorak.cz/kocarky-postylky-pro-panenky/kat362.html",
+  "name": "Kočárky, postýlky pro panenky"
+ },
+ "365": {
+  "id": 365,
+  "url": "https://www.elektrodvorak.cz/figurky/kat365.html",
+  "name": "Figurky"
+ },
+ "288": {
+  "id": 288,
+  "url": "https://www.elektrodvorak.cz/ostatni-divci/kat288.html",
+  "name": "Ostatní dívčí"
+ },
+ "290": {
+  "id": 290,
+  "url": "https://www.elektrodvorak.cz/pro-nejmensi/kat290.html",
+  "name": "Pro nejmenší"
+ },
+ "407": {
+  "id": 407,
+  "url": "https://www.elektrodvorak.cz/albi/kat407.html",
+  "name": "ALBI"
+ },
+ "410": {
+  "id": 410,
+  "url": "https://www.elektrodvorak.cz/spolecenske-hry/kat410.html",
+  "name": "Společenské hry"
+ },
+ "408": {
+  "id": 408,
+  "url": "https://www.elektrodvorak.cz/kouzelne-cteni/kat408.html",
+  "name": "Kouzelné čtení"
+ },
+ "647": {
+  "id": 647,
+  "url": "https://www.elektrodvorak.cz/figurky-a-zviratka/kat647.html",
+  "name": "Figurky a zvířátka"
+ },
+ "376": {
+  "id": 376,
+  "url": "https://www.elektrodvorak.cz/interaktivni-a-mluvici/kat376.html",
+  "name": "Interaktivní a mluvící"
+ },
+ "278": {
+  "id": 278,
+  "url": "https://www.elektrodvorak.cz/plysaci/kat278.html",
+  "name": "Plyšáci"
+ },
+ "489": {
+  "id": 489,
+  "url": "https://www.elektrodvorak.cz/ty-plysaci/kat489.html",
+  "name": "TY plyšáci"
+ },
+ "287": {
+  "id": 287,
+  "url": "https://www.elektrodvorak.cz/spolecenske-hry/kat287.html",
+  "name": "Společenské hry"
+ },
+ "393": {
+  "id": 393,
+  "url": "https://www.elektrodvorak.cz/karetni-hry/kat393.html",
+  "name": "Karetní hry"
+ },
+ "280": {
+  "id": 280,
+  "url": "https://www.elektrodvorak.cz/stavebnice/kat280.html",
+  "name": "Stavebnice"
+ },
+ "366": {
+  "id": 366,
+  "url": "https://www.elektrodvorak.cz/hry-na-profese/kat366.html",
+  "name": "Hry na profese"
+ },
+ "387": {
+  "id": 387,
+  "url": "https://www.elektrodvorak.cz/kreativni-sady/kat387.html",
+  "name": "Kreativní sady"
+ },
+ "363": {
+  "id": 363,
+  "url": "https://www.elektrodvorak.cz/slizy-hmoty-modelina/kat363.html",
+  "name": "Slizy, hmoty, modelína"
+ },
+ "390": {
+  "id": 390,
+  "url": "https://www.elektrodvorak.cz/malovani/kat390.html",
+  "name": "Malování"
+ },
+ "285": {
+  "id": 285,
+  "url": "https://www.elektrodvorak.cz/ostatni-hracky/kat285.html",
+  "name": "Ostatní hračky"
+ },
+ "155": {
+  "id": 155,
+  "url": "https://www.elektrodvorak.cz/kapesni-hry/kat155.html",
+  "name": "Kapesní hry"
+ },
+ "502": {
+  "id": 502,
+  "url": "https://www.elektrodvorak.cz/drevene-hracky/kat502.html",
+  "name": "Dřevěné hračky"
+ },
+ "343": {
+  "id": 343,
+  "url": "https://www.elektrodvorak.cz/puzzle/kat343.html",
+  "name": "Puzzle"
+ },
+ "284": {
+  "id": 284,
+  "url": "https://www.elektrodvorak.cz/odrazedla/kat284.html",
+  "name": "Odrážedla"
+ },
+ "364": {
+  "id": 364,
+  "url": "https://www.elektrodvorak.cz/hudebni-nastroje/kat364.html",
+  "name": "Hudební nástroje"
+ },
+ "384": {
+  "id": 384,
+  "url": "https://www.elektrodvorak.cz/pokladnicky-bublifuky-budiky/kat384.html",
+  "name": "Pokladničky, bublifuky, budíky"
+ },
+ "385": {
+  "id": 385,
+  "url": "https://www.elektrodvorak.cz/na-ven-a-sport/kat385.html",
+  "name": "Na ven a sport"
+ },
+ "340": {
+  "id": 340,
+  "url": "https://www.elektrodvorak.cz/kostymy/kat340.html",
+  "name": "Kostýmy, šaty"
+ },
+ "332": {
+  "id": 332,
+  "url": "https://www.elektrodvorak.cz/ostatni/kat332.html",
+  "name": "Ostatní"
+ },
+ "16": {
+  "id": 16,
+  "url": "https://www.elektrodvorak.cz/velke-spotrebice/kat16.html",
+  "name": "Velké spotřebiče"
+ },
+ "17": {
+  "id": 17,
+  "url": "https://www.elektrodvorak.cz/male-spotrebice/kat17.html",
+  "name": "Malé spotřebiče"
+ },
+ "19": {
+  "id": 19,
+  "url": "https://www.elektrodvorak.cz/it-pocitace/kat19.html",
+  "name": "IT, počítače"
+ },
+ "18": {
+  "id": 18,
+  "url": "https://www.elektrodvorak.cz/elektronika/kat18.html",
+  "name": "Elektronika"
+ },
+ "26": {
+  "id": 26,
+  "url": "https://www.elektrodvorak.cz/dum-a-dilna/kat26.html",
+  "name": "Dům a dílna"
+ },
+ "28": {
+  "id": 28,
+  "url": "https://www.elektrodvorak.cz/ctyrkolky-a-skutry/kat28.html",
+  "name": "Čtyřkolky a skútry"
+ },
+ "27": {
+  "id": 27,
+  "url": "https://www.elektrodvorak.cz/les-a-zahrada/kat27.html",
+  "name": "Les a zahrada"
+ },
+ "20": {
+  "id": 20,
+  "url": "https://www.elektrodvorak.cz/hracky/kat20.html",
+  "name": "Hračky"
+ }
+}
