@@ -40,6 +40,8 @@ Columns and what they mean for us (interpretation, **to confirm with a sample fi
 **Missing for the specified features:** `nákupní cena` (needed for the allocation rule "lowest purchase price"), multiple price levels (B2B, later), dimensions or volume (FOFR Module F), "can ship directly" per branch (we hold that ourselves in `branches`).
 
 ## Scraper output (uploaded files)
+> **Superseded by `06-EXPORT-VERIFIED.md` (2026-10-26).** `url_map.csv` and `categories.json` are now in the repo and were measured directly; the counts below were second-hand and several are wrong (58 KAT placeholders not 59, 104 codes over 224 URLs not 105 over 226, 64 unmatched not 61, no `done` field in `categories.json`). `product_urls.json` is **not** in the upload, so the category tree cannot be rebuilt yet. Read 06 for the corrected figures.
+
 - `url_map.csv`: **11,196 product URLs**, all shaped `/slug/pro<id>.html`, columns `old_url, old_path, id, code`.
 - `product_urls.json`: 11,197 products each with category id lists (4 levels, e.g. `[8, 46, 166, 18]`; 8 is "Super ceny", a virtual category). One more entry than the map; to reconcile.
 - `categories.json`: **389 categories** with id, url (`/slug/kat<id>.html`), name; all 389 marked done. Category URLs need 301s too, not just products.
