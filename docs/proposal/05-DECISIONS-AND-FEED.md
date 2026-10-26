@@ -10,6 +10,7 @@
 | 5 | KB bank API cost acceptable; Supabase size fine | |
 | 6 | Withdrawal button: wait for 1. 1. 2027 | Build behind a dated feature flag; row in COMPLIANCE.md. |
 | 7 | Full cutover probable, **not committed** | Keep soft launch possible (shop-level flag per product subset). |
+| 9 | Purchase price: Tresoft can add it. Dimensions: no. B2B: not needed now | Allocation rule stays as specified. FOFR uses weight only (Module B); no volume formula, so bulky items without a sensible weight are flagged for a manual quote. Launch has one price per card. `price_levels` stays in the schema with a single default row, so B2B can be added later without a migration of order data. |
 | 8 | No AZ database export | Customer and order history from the old site is lost. Redirects only. |
 
 ## Signys CSV export (programmer's email)
