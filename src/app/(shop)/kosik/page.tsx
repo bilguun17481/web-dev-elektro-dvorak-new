@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
+import { DeliveryOptions } from "@/components/DeliveryOptions";
 import { Price } from "@/components/Price";
 import { bySlug } from "@/data/catalog";
 import { computeTotals } from "@/domain/pricing";
@@ -115,7 +116,15 @@ export default function CartPage() {
           <span>Celkem</span>
           <Price amount={totals.totalMinor} />
         </div>
-        <p className="mt-2 text-xs text-ink-soft">Dopravu a platbu vyberete v dalším kroku.</p>
+        <p className="mt-2 text-xs text-ink-soft">Platbu vyberete v dalším kroku.</p>
+      </div>
+
+      <div className="mt-10">
+        <h2 className="text-sm font-semibold">Doprava</h2>
+        <p className="mt-1 text-xs text-ink-soft">Ceny počítá server podle nastavení ve správě.</p>
+        <div className="mt-3">
+          <DeliveryOptions items={items} />
+        </div>
       </div>
     </div>
   );

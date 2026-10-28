@@ -8,4 +8,5 @@ out/
 *.tsbuildinfo
 next-env.d.ts
 coverage/
+.data/
 .DS_Store

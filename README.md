@@ -11,9 +11,10 @@ why, is in [What changed](#what-changed-from-web-dev-part-2).
 
 ## Status
 
-Working: the storefront (home, categories, product pages, cart), the pure domain layer
-with 118 tests, and the 301 map from the old site. Not built yet: checkout, payments,
-carriers, admin, the ERP sync agent and the database itself. The proposal documents
+Working: the storefront (home, categories, product pages, cart), the admin with its
+shipping settings, the carrier provider layer with a Balíkobot adapter, the pure domain
+layer, and the 301 map from the old site. 146 tests. Not built yet: checkout, payments,
+orders, the ERP sync agent, and the Supabase project itself. The proposal documents
 describe all of them.
 
 ## Layout
@@ -21,7 +22,8 @@ describe all of them.
 | Path | What |
 | --- | --- |
 | `src/domain` | Pure business rules: money, VAT, pricing, shipping, branch allocation, SPAYD, ERP code matching. No I/O, no framework. ESLint enforces that. |
-| `src/adapters` | Where the ERP, payment, carrier, bank and mail integrations go, each behind an interface so nothing above knows which is active. |
+| `src/adapters/carriers` | Carrier integrations: Balíkobot, and a manual provider for portals with no API. Each describes its own credential fields, so the admin renders a form for it. |
+| `src/app/admin` | The back office. Login and shipping settings today. |
 | `src/server` | Server-only code: the redirect lookup today, checkout steps and database clients next. |
 | `src/app` | Routes. |
 | `src/data` | The seed catalogue and the generated data. |
@@ -63,6 +65,40 @@ rules that are expensive to get wrong and cheap to test.
 - **`erpCode.ts`** How ERP codes are matched, derived from measuring the real export.
 - **`spayd.ts`** The Czech QR payment string, with an IBAN check digit test.
 
+## Carriers, and adding one without code
+
+The split that makes this work: *what a provider can do* is code, *which providers are
+connected and how they are priced* is data.
+
+- **Balíkobot** fronts most Czech carriers (PPL, DPD, Zásilkovna, Česká pošta, GLS and
+  others). Connect it once in the admin and every carrier on the account is available as
+  a dropdown, not a deploy.
+- **Manual** covers any portal with no API at all, FOFR among them. Give it a name and a
+  tracking URL with a `{tracking}` placeholder; staff book the consignment in whatever
+  portal it lives in, paste the number into the order, and the customer gets a link.
+
+Both are configured under **Správa → Doprava**. A provider declares its credential fields
+in its own `definition`, and the admin builds the form from that, so connecting a provider
+the UI has never heard of needs no UI work. Tariffs are data too, including the FOFR
+Module B coefficients: a fuel surcharge change is a field, not a release.
+
+Credentials are encrypted with `SECRETS_KEY` before they are stored and are never sent
+back to the browser. A secret field can be replaced; it cannot be read.
+
+Only a genuinely new kind of API needs a new file in `src/adapters/carriers` plus one line
+in its registry. Everything else is the admin.
+
+### What is verified about the Balíkobot integration
+
+Verified from the reference PHP client, which tracks the official v2 documentation: HTTP
+Basic authentication with an API user and key, and the method names `add`, `track`,
+`labels`, `info/whoami` and `info/carriers`. **Not verified**: the base URL, the version
+segment, and the field names of the `add` payload, because balikobot.cz is blocked by the
+development environment's network policy. The base URL and version are therefore admin
+fields with a default rather than constants, `testConnection` uses only the verified parts,
+and `createShipment` carries a comment saying to check it against your account's own
+documentation before the first live consignment.
+
 ## The 301 map
 
 `npm run data:build` turns the export into `src/data/generated/redirects.json` and
@@ -90,7 +126,9 @@ scrape, and the harvested catalogue shortened others, so the id is the only stab
 | Shipping | flat price with a free-over threshold | the FOFR tariff, with a manual-quote result where the data does not support a price |
 | Branch allocation | none | implemented, deterministic, flags what it cannot decide |
 | Redirects | none | 11,585, generated and tested |
-| Tests | none | 118 |
+| Carriers | six hand-written carrier files, credentials from environment variables, adding one meant editing code and redeploying | a provider registry with Balíkobot and a manual provider, connected and priced from the admin, credentials encrypted at rest |
+| Admin auth | a login page with no guard behind it | session cookie signed with HMAC, every server action re-checks the session and the role |
+| Tests | none | 146 |
 | Stock display | a single number | per branch, and nothing shown until the feed is real |
 
 ## What is still missing
@@ -102,3 +140,7 @@ scrape, and the harvested catalogue shortened others, so the id is the only stab
   `docs/proposal/05-DECISIONS-AND-FEED.md` is unconfirmed without it.
 - **The scrape is not a complete snapshot.** 4 of the 72 harvested products are not in the
   export at all, so it needs re-running before the redirects go live.
+- **There is no Supabase project**, so the admin stores its settings in `.data/shop.json`
+  and the owner login comes from the environment. Both are development arrangements:
+  `supabase/migrations/0001_init.sql` holds the real schema with its RLS, and the store
+  sits behind an interface so swapping it changes one file.

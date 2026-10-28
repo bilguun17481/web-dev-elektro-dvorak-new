@@ -1,7 +1,4 @@
 import type { Metadata } from "next";
-import { Footer } from "@/components/Footer";
-import { Header } from "@/components/Header";
-import { CartProvider } from "@/lib/cart";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -13,16 +10,11 @@ export const metadata: Metadata = {
     "Televize a audio, velké i malé spotřebiče, počítače a telefony, nářadí a zahradní technika. Šest prodejen a odborný servis.",
 };
 
+/** Document shell only. The storefront and the admin bring their own chrome. */
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="cs">
-      <body className="font-sans antialiased">
-        <CartProvider>
-          <Header />
-          <main className="min-h-[60vh]">{children}</main>
-          <Footer />
-        </CartProvider>
-      </body>
+      <body className="font-sans antialiased">{children}</body>
     </html>
   );
 }

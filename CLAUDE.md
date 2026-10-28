@@ -35,6 +35,13 @@ never by hand.
 8. **Stock is shown per branch and honestly**, never as one invented number. The feed is
    an hourly snapshot that is frozen overnight, so a live-looking figure would be a lie.
 9. **No card data on our servers.** Hosted pages only.
+10. **Carrier credentials are entered in the admin, never in the repo or the environment.**
+    They are encrypted with `SECRETS_KEY` and never sent back to the browser: a secret
+    field can be replaced, never read.
+11. **Adding a carrier is an admin job, not a code change.** A provider describes its own
+    credential fields and the admin renders them. Only a genuinely new kind of API needs a
+    new adapter in `src/adapters/carriers`, and `manual` already covers any portal without
+    one.
 
 ## Generated files
 `src/data/generated/` and `supabase/seed/0002_redirects.sql` come from
